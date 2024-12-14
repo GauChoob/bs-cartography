@@ -13,7 +13,7 @@ const hopeport_portal_stone_image_x = 4537
 const hopeport_portal_stone_image_y = 3432
 // Min and max zoom of the map (based on number of generated layers)
 const minZoom = 0
-const maxZoom = 7
+const maxZoom = 8
 
 /* Map Properties */
 // Desired map coordinate of the Hopeport Portal Stone
@@ -25,7 +25,7 @@ const basemap_error_url = `https://brightershoreswiki.org/images/Brighter_Shores
 const room_overlay_url = `https://brightershoreswiki.org/images/Brighter_Shores_World_Map_Overlay_{z}_{y}_{x}.png?${cache_buster}`
 const room_overlay_error_url = `https://brightershoreswiki.org/images/Brighter_Shores_World_Map_Overlay_blank.png?${cache_buster}`
 // When to switch between Room data and Entity data
-const room_entity_zoom_cutoff = 5.5
+const room_entity_zoom_cutoff = 6.5
 
 /* Tile Hover */
 const tile_hover_style = {
@@ -66,7 +66,7 @@ const episode_style = (feature) => ({
     fillOpacity: 0.2,
 })
 // Room default zoom on page load
-const room_zoom = 4
+const room_zoom = 5
 
 /* Entities */
 // Minimum size of entities even when you zoom out a lot
