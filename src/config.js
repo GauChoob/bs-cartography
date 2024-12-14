@@ -89,7 +89,7 @@ const highlighted_entity_icon = L.icon({
 // How many extra tiles to display around the highlighted selected entries
 const highlighted_entity_margin = 5
 // Want 1/12 of a tile gap on all sides of an entity
-const entity_padding = tile_width / 12
+const entity_padding = 1/12
 
 /* Misc */
 const href = 'https://brightershoreswiki.org/w/'

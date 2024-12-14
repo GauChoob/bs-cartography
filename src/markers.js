@@ -9,7 +9,8 @@ const EntityMarker = L.Marker.extend({
     update_size() {
         const tile_width = this.entity_map.latLngToLayerPoint([0,1]).x - this.entity_map.latLngToLayerPoint([0,0]).x
         const icon = this.getIcon()
-        icon.options.iconSize = [Math.max(config.entity_minimum_width, tile_width*this.entity_size[0] - 2*config.entity_padding), Math.max(config.entity_minimum_width, tile_width*this.entity_size[1] - 2*config.entity_padding)]
+        const padding = 2*tile_width*config.entity_padding
+        icon.options.iconSize = [Math.max(config.entity_minimum_width, tile_width*this.entity_size[0] - padding), Math.max(config.entity_minimum_width, tile_width*this.entity_size[1] - padding)]
         this.setIcon(icon)
     },
 })
