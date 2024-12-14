@@ -66,8 +66,8 @@ const setup_room_overlay = (map) => {
     room_overlay_layer = L.tileLayer(config.room_overlay_url, {
         errorTileUrl: config.room_overlay_error_url,
         noWrap: true,
-        minNativeZoom: config.minZoom,
-        maxNativeZoom: config.maxZoom-1,
+        minNativeZoom: config.min_native_zoom,
+        maxNativeZoom: config.max_native_zoom,
         tileSize: config.image_tile_dimensions,
     })
     add_room_overlay_update_event(map)

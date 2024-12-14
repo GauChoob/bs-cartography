@@ -8,9 +8,8 @@ const adjust_coordinates = (latlng, size) => [latlng.lat + size[1]/2, latlng.lng
 const EntityMarker = L.Marker.extend({
     update_size() {
         const tile_width = this.entity_map.latLngToLayerPoint([0,1]).x - this.entity_map.latLngToLayerPoint([0,0]).x
-        const padding = tile_width / 6  // want there to be small gap between icon and tile boundary
         const icon = this.getIcon()
-        icon.options.iconSize = [Math.max(config.entity_minimum_width, tile_width*this.entity_size[0]-padding), Math.max(config.entity_minimum_width, tile_width*this.entity_size[1]-padding)]
+        icon.options.iconSize = [Math.max(config.entity_minimum_width, tile_width*this.entity_size[0] - 2*config.entity_padding), Math.max(config.entity_minimum_width, tile_width*this.entity_size[1] - 2*config.entity_padding)]
         this.setIcon(icon)
     },
 })

@@ -16,16 +16,16 @@ if(ENV.IMPORT_JSON === true) {
 const basemap = L.tileLayer(config.basemap_url, {
     errorTileUrl: config.basemap_error_url,
     noWrap: true,
-    minNativeZoom: config.minZoom,
-    maxNativeZoom: config.maxZoom-1,
+    minNativeZoom: config.min_native_zoom,
+    maxNativeZoom: config.max_native_zoom,
     tileSize: config.image_tile_dimensions,
 })
 const map = L.map('map', {
     crs: map_dimensions.CRS,
     bounds: map_dimensions.bounds,
     maxBounds: map_dimensions.bounds,
-    minZoom: config.minZoom,
-    maxZoom: config.maxZoom,
+    minZoom: config.min_zoom,
+    maxZoom: config.max_zoom,
     layers: [basemap],
     fullscreenControl: true,
     fullScreenControlOptions: {

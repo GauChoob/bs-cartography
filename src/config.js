@@ -11,9 +11,9 @@ const tile_width = 48
 // Pixel of the Hopeport Portal Stone in the image
 const hopeport_portal_stone_image_x = 4537
 const hopeport_portal_stone_image_y = 3432
-// Min and max zoom of the map (based on number of generated layers)
-const minZoom = 0
-const maxZoom = 8
+// Min and max zoom level at which tiles are rendered
+const min_native_zoom = 0
+const max_native_zoom = 7
 
 /* Map Properties */
 // Desired map coordinate of the Hopeport Portal Stone
@@ -26,6 +26,9 @@ const room_overlay_url = `https://brightershoreswiki.org/images/Brighter_Shores_
 const room_overlay_error_url = `https://brightershoreswiki.org/images/Brighter_Shores_World_Map_Overlay_blank.png?${cache_buster}`
 // When to switch between Room data and Entity data
 const room_entity_zoom_cutoff = 6.5
+// Min and max zoom of the map
+const min_zoom = 0
+const max_zoom = 8
 
 /* Tile Hover */
 const tile_hover_style = {
@@ -85,6 +88,8 @@ const highlighted_entity_icon = L.icon({
 })
 // How many extra tiles to display around the highlighted selected entries
 const highlighted_entity_margin = 5
+// Want 1/12 of a tile gap on all sides of an entity
+const entity_padding = tile_width / 12
 
 /* Misc */
 const href = 'https://brightershoreswiki.org/w/'
@@ -101,8 +106,10 @@ module.exports = {
     tile_width,
     hopeport_portal_stone_image_x,
     hopeport_portal_stone_image_y,
-    minZoom,
-    maxZoom,
+    min_zoom,
+    max_zoom,
+    min_native_zoom,
+    max_native_zoom,
     hopeport_portal_stone_coord_x,
     hopeport_portal_stone_coord_y,
     basemap_url,
@@ -118,6 +125,7 @@ module.exports = {
     entity_minimum_width,
     highlighted_entity_icon,
     highlighted_entity_margin,
+    entity_padding,
     href,
     minimum_characters_in_automatic_search,
     world_dimensions,
