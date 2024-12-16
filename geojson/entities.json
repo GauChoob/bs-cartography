@@ -17464,6 +17464,1501 @@
                 "type": "Point",
                 "coordinates": [390, 269]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gremlin",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [313, 122]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gremlin",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [314, 122]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gremlin",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [315, 124]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ralph Cyclops",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [323, 121]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Victor T Cyclops",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [336, 125]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [337, 114]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabertooth Tiger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [332, 133]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabertooth Tiger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [339, 132]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabertooth Tiger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [336, 134]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabertooth Tiger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [341, 133]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabertooth Tiger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [346, 133]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabertooth Tiger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [350, 133]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabertooth Tiger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [355, 131]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabertooth Tiger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [355, 134]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cyclops Guard",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [365, 126]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Crenopolis Outskirts Portal Stone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-portal_stone"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [370, 133]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rockbird",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 100]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rockbird",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 104]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rockbird",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [377, 102]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rockbird",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [381, 102]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Thomas Cyclops",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 82]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Olive Barrel",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 83]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Olive Barrel",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 84]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Olive Barrel",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [368, 83]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Aunt Freda",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [383, 64]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Crenopolis Back Alley Gate",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [386, 79]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fridge",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [384, 57]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Porletta",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk","theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [383, 55]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Copper Sink",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [384, 52]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bilger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk","theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [383, 51]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Roric",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk","theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [381, 51]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bedside Table",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [379, 50]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Varco Molo",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [388, 115]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bill the Butcher",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [402, 120]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bladrick",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [398, 107]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Redeeki Val",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [408, 105]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ratman Grunt",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [413, 100]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ratman Grunt",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [411, 92]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ratman Grunt",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [413, 94]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ratman Chief",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [407, 93]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ratman Chief",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [400, 97]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ratman Chief",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [408, 97]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [396, 93]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [397, 93]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [396, 98]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [397, 98]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [417, 81]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Begram Snilch",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [399, 85]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Broken Gate",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [398, 84]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Francesca",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [402, 79]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Obelisk",
+                "category": "Entity",
+                "size": [5, 1], 
+                "classes": ["icon-obelisk"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [412, 71]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [426, 90]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fridge",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [422, 94]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Plate",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [422, 92]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Copper Sink",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [426, 95]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Wardrobe",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [429, 93]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Copper Sink",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [432, 92]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bubble Bath",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [429, 89]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Street Hag",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [435, 87]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Street Hag",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [441, 85]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Street Hag",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [443, 87]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Street Hag",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [439, 87]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Street Hag",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [453, 87]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Street Hag",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [455, 87]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Street Hag",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [457, 86]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Street Hag",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [456, 84]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangsters' Stakeout",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-detective"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [450, 80]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bubbles MacLeish",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [437, 80]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mawchest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [426, 52]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mawchest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [422, 56]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mawchest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [424, 54]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mawchest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [411, 57]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mawchest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [416, 53]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mawchest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [413, 55]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sewer Fiend",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [404, 60]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sewer Fiend",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [403, 54]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sewer Fiend",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [404, 51]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sewer Fiend",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [408, 46]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sewer Fiend",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [403, 42]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sewer Fiend",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [402, 46]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Spectral Stalker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [434, 56]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Spectral Stalker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [435, 52]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Spectral Stalker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [434, 50]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Spectral Stalker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [433, 39]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Spectral Stalker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [433, 43]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Spectral Stalker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [440, 39]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Candelabra",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search","theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [438, 34]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Air Vent",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search","theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [444, 33]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Hermar",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [396, 130]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Acherick the Greengrocer",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [414, 125]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ignatius",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop","theme-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [420, 123]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Zombie",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [414, 143]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Zombie",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [413, 142]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Zombie",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [415, 138]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Brute",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [409, 142]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Brute",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [401, 143]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [400, 143]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Zombie",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [414, 151]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Zombie",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [414, 148]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Zombie",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [412, 148]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Damaged Door",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [433, 152]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Lani",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-merchant"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [433, 157]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Muggers' South Stakeout",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-detective"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [430, 143]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smugglers' Back Stakeout",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-detective"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [455, 148]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [459, 148]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [453, 155]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [453, 157]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [452, 158]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [451, 158]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [450, 157]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [460, 154]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [461, 156]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [460, 157]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [461, 157]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Smuggler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [461, 154]
+            }
           }
     ]
 }
