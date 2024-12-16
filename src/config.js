@@ -25,7 +25,7 @@ const basemap_error_url = `https://brightershoreswiki.org/images/Brighter_Shores
 const room_overlay_url = `https://brightershoreswiki.org/images/Brighter_Shores_World_Map_Overlay_{z}_{y}_{x}.png?${cache_buster}`
 const room_overlay_error_url = `https://brightershoreswiki.org/images/Brighter_Shores_World_Map_Overlay_blank.png?${cache_buster}`
 // When to switch between Room data and Entity data
-const room_entity_zoom_cutoff = 6.5
+const room_entity_zoom_cutoff = 5.5
 // Min and max zoom of the map
 const min_zoom = 0
 const max_zoom = 8
