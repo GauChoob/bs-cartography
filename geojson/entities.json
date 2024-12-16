@@ -11862,6 +11862,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Hopeforest Central Portal Stone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-portal_stone"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [257, 133]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Dock Leaf",
                 "category": "Entity",
                 "size": [1, 1], 
