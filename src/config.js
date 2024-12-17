@@ -88,6 +88,9 @@ const highlighted_entity_icon = L.icon({
 })
 // How many extra tiles to display around the highlighted selected entries
 const highlighted_entity_margin = 5
+const max_entity_width = 10
+const zindex_offset_multiplier = max_entity_width*tile_width*2^(max_zoom - max_native_zoom)
+const highlighted_entity_zindex = max_entity_width^2*zindex_offset_multiplier
 // Want 1/12 of a tile gap on all sides of an entity
 const entity_padding = 1/12
 
@@ -125,6 +128,8 @@ module.exports = {
     entity_minimum_width,
     highlighted_entity_icon,
     highlighted_entity_margin,
+    zindex_offset_multiplier,
+    highlighted_entity_zindex,
     entity_padding,
     href,
     minimum_characters_in_automatic_search,

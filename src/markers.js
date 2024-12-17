@@ -4,6 +4,8 @@ const config = require('./config.js')
 let entity_layer = null
 
 const adjust_coordinates = (latlng, size) => [latlng.lat + size[1]/2, latlng.lng + size[0]/2]
+// smaller markers go above larger ones, but always below highlighted entities
+const adjust_zindex = (size) => config.highlighted_entity_zindex - config.zindex_offset_multiplier*size[0]*size[1]
 
 const EntityMarker = L.Marker.extend({
     update_size() {
@@ -23,7 +25,7 @@ const add_entities = (map) => {
         const icon = L.divIcon({className: 'leaflet-marker-icon-entity ' + feature.properties.classes.map(classname => `leaflet-marker-icon-${classname}`).join(' ')})
         const size = feature.properties.size
         const coordinates = adjust_coordinates(latlng, size)
-        const marker = new EntityMarker(coordinates, {icon})
+        const marker = new EntityMarker(coordinates, {icon, zIndexOffset: adjust_zindex(size)})
         marker.entity_size = size
         marker.entity_map = map
         marker.update_size()
