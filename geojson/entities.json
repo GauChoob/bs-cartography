@@ -18326,7 +18326,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Gangsters' Stakeout",
+                "name": "Gangsters' Back Stakeout",
                 "category": "Entity",
                 "size": [1, 2], 
                 "classes": ["icon-detective"]
@@ -19712,6 +19712,19 @@
             "geometry": {
                 "type": "Point",  
                 "coordinates": [483, 132]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Upholstery Station",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-leatherworker"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [481, 133]
             }
           },
           {
@@ -21558,6 +21571,305 @@
             "geometry": {
                 "type": "Point",  
                 "coordinates": [494, 36]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [433, 130]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [432, 128]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [430, 130]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [430, 131]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [430, 132]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [443, 143]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [443, 144]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [442, 144]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [442, 145]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mugger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [441, 144]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [463, 82]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [463, 85]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [461, 85]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [461, 87]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [464, 87]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [454, 72]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [456, 71]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [458, 71]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [459, 72]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gangster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson","theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [463, 72]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Crate of Junk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [387, 85]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Crate of Junk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [388, 85]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rubbish Heap",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [388, 86]
             }
           }
     ]
