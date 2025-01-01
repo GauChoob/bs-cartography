@@ -12436,7 +12436,33 @@
             },
             "geometry": {
                 "type": "Point",
+                "coordinates": [277, 298]
+            }
+          },
+		  {
+            "type": "Feature",
+            "properties": {
+                "name": "Divination",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
                 "coordinates": [276, 297]
+            }
+          },
+		  {
+            "type": "Feature",
+            "properties": {
+                "name": "Divination",
+                "category": "Entity",
+                "size": [3, 3], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [275, 294]
             }
           },
           {
@@ -14686,7 +14712,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Mine Cart Work",
+                "name": "Flint Mine Cart Work",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-miner"]
@@ -14699,7 +14725,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Mine Cart Work",
+                "name": "Iron Mine Cart Work",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-miner"]
@@ -14712,7 +14738,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Mine Cart Work",
+                "name": "Basalt Mine Cart Work",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-miner"]
@@ -14725,7 +14751,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Mine Cart Work",
+                "name": "Limestone Mine Cart Work",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-miner"]
@@ -14738,7 +14764,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Mine Cart Work",
+                "name": "Fossils Mine Cart Work",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-miner"]
@@ -19784,7 +19810,7 @@
             "properties": {
                 "name": "Copper Sink",
                 "category": "Entity",
-                "size": [2, 1], 
+                "size": [1, 2], 
                 "classes": ["icon-obstacle"]
             },
             "geometry": {
