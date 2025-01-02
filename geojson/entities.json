@@ -4646,6 +4646,45 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Large Pile of Treasure",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45, 90]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Looted Inheritance Chest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [47, 90]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Large Pile of Treasure",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49, 92]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Water Lily",
                 "category": "Entity",
                 "size": [1, 1], 
