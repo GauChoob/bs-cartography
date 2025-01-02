@@ -875,14 +875,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Reagent Preparation Station",
+                "name": "Work for Ebsworth",
                 "category": "Entity",
-                "size": [1, 1], 
+                "size": [3, 1], 
                 "classes": ["icon-alchemist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [133, 103]
+                "coordinates": [132, 103]
             }
         },
         {
@@ -947,7 +947,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [134, 103]
+                "coordinates": [129, 109]
             }
         },
         {
