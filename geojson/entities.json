@@ -17845,6 +17845,45 @@
           {
             "type": "Feature",
             "properties": {
+                "name": "Chalk Line",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [363, 85]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Throwing Cushions",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [362, 84]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Throwing Cushions",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [362, 86]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
                 "name": "Aunt Freda",
                 "category": "Entity",
                 "size": [1, 1], 
