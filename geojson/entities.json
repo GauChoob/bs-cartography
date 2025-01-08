@@ -1889,7 +1889,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Strange Stone",
+                "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-storage"]
@@ -2851,7 +2851,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Strange Stone",
+                "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-storage"]
@@ -11212,7 +11212,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Clay Red",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11225,7 +11225,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Bark Brown",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11238,7 +11238,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Walnut Brown",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11251,7 +11251,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Mist Gray",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11264,7 +11264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Slate Gray",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11277,7 +11277,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Storm Gray",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11290,7 +11290,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Pine Green",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11303,7 +11303,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Moss Green",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11316,7 +11316,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Fern Green",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11329,7 +11329,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Forest Green",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11342,7 +11342,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Willow Green",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11355,7 +11355,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Forest Yellow",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11368,7 +11368,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Sand Yellow",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11381,7 +11381,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Rosewood Red",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11394,7 +11394,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Brick Red",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11407,7 +11407,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Currant Red",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11420,7 +11420,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Forest Red",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11433,7 +11433,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Tawny Brown",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11446,7 +11446,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Neutral",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
@@ -11459,7 +11459,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dye Tub",
+                "name": "Dye Tub Rust Red",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-palette"]
