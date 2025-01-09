@@ -6330,7 +6330,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [252, 69]
+                "coordinates": [254, 63]
             }
         },
         {
@@ -6343,7 +6343,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [255, 64]
+                "coordinates": [250, 60]
             }
         },
         {
@@ -6356,7 +6356,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [254, 66]
+                "coordinates": [253, 67]
             }
         },
         {
@@ -6369,7 +6369,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [275, 65]
+                "coordinates": [250, 69]
             }
         },
         {
@@ -6382,7 +6382,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [266, 64]
+                "coordinates": [260, 64]
             }
         },
         {
@@ -6395,7 +6395,33 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [271, 64]
+                "coordinates": [266, 65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spriggan",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-scout", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [272, 63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spriggan",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-scout", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [274, 64]
             }
         },
         {
@@ -8540,6 +8566,19 @@
             },
             "geometry": {
                 "type": "Point",
+                "coordinates": [279, 100]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Viper",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-scout", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
                 "coordinates": [283, 102]
             }
         },
@@ -8567,6 +8606,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [284, 115]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Viper",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-scout", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [279, 116]
             }
         },
         {
@@ -12025,7 +12077,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [239, 32]
+                "coordinates": [242, 37]
             }
         },
         {
@@ -12038,7 +12090,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [243, 29]
+                "coordinates": [239, 42]
             }
         },
         {
@@ -12051,7 +12103,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [241, 29]
+                "coordinates": [242, 40]
             }
         },
         {
@@ -12077,7 +12129,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [242, 39]
+                "coordinates": [240, 28]
             }
         },
         {
@@ -12090,7 +12142,33 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [241, 38]
+                "coordinates": [240, 33]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bramblelith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-scout", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [239, 31]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bramblelith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-scout", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [241, 29]
             }
         },
         {
@@ -12813,7 +12891,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [305, 253]
+                "coordinates": [305, 254]
             }
           },
           {
@@ -12826,7 +12904,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [303, 249]
+                "coordinates": [302, 249]
             }
           },
           {
@@ -12839,7 +12917,20 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [304, 245]
+                "coordinates": [301, 246]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-minefighter", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [305, 244]
             }
           },
           {
@@ -15083,7 +15174,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [328, 190]
+                "coordinates": [325, 190]
             }
           },
           {
@@ -15096,7 +15187,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [324, 190]
+                "coordinates": [330, 189]
             }
           },
           {
@@ -15109,7 +15200,20 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [326, 189]
+                "coordinates": [327, 188]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-minefighter", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [323, 190]
             }
           },
           {
