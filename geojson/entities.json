@@ -6622,7 +6622,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wood Splitting Stump",
+                "name": "Wood Splitting Stump (Murphy)",
                 "category": "Entity",
                 "size": [3, 1], 
                 "classes": ["icon-woodcutter"]
@@ -8403,7 +8403,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wood Splitting Stump",
+                "name": "Wood Splitting Stump (Claude)",
                 "category": "Entity",
                 "size": [1, 3], 
                 "classes": ["icon-woodcutter"]
@@ -9573,7 +9573,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wood Splitting Stump",
+                "name": "Wood Splitting Stump (Hanna)",
                 "category": "Entity",
                 "size": [3, 1], 
                 "classes": ["icon-woodcutter"]
@@ -12832,7 +12832,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Ingot Mold",
+                "name": "Ingot Mold (goblin)",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-blacksmith"]
@@ -12871,7 +12871,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Ingot Mold",
+                "name": "Ingot Mold (goblin)",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-blacksmith"]
@@ -16623,7 +16623,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Ingot Mold",
+                "name": "Ingot Mold (gnome)",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-blacksmith"]
@@ -16675,7 +16675,7 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Ingot Mold",
+                "name": "Ingot Mold (gnome)",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-blacksmith"]
@@ -18580,6 +18580,19 @@
             },
             "geometry": {
                 "type": "Point",  
+                "coordinates": [442, 52]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mawchest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
                 "coordinates": [422, 56]
             }
           },
@@ -18638,6 +18651,19 @@
           {
             "type": "Feature",
             "properties": {
+                "name": "Mawchest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [411, 52]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
                 "name": "Sewer Fiend",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -18646,6 +18672,19 @@
             "geometry": {
                 "type": "Point",  
                 "coordinates": [404, 60]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sewer Fiend",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [406, 57]
             }
           },
           {
@@ -18716,6 +18755,19 @@
           {
             "type": "Feature",
             "properties": {
+                "name": "Sewer Fiend",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [408, 41]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
                 "name": "Spectral Stalker",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -18723,7 +18775,20 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [434, 56]
+                "coordinates": [432, 56]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Spectral Stalker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [437, 57]
             }
           },
           {
@@ -18789,6 +18854,19 @@
             "geometry": {
                 "type": "Point",  
                 "coordinates": [440, 39]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Spectral Stalker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-watchperson", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [440, 45]
             }
           },
           {
