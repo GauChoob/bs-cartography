@@ -12904,7 +12904,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [302, 249]
+                "coordinates": [302, 250]
             }
           },
           {
@@ -12917,7 +12917,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [301, 246]
+                "coordinates": [301, 247]
             }
           },
           {
@@ -12930,7 +12930,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [305, 244]
+                "coordinates": [305, 245]
             }
           },
           {
@@ -18580,7 +18580,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [442, 52]
+                "coordinates": [422, 52]
             }
           },
           {
