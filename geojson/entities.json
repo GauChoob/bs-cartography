@@ -5433,6 +5433,19 @@
             },
             "geometry": {
                 "type": "Point",
+                "coordinates": [216, 127]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Outlaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-scout", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
                 "coordinates": [213, 127]
             }
         },
@@ -8034,6 +8047,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [228, 117]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Outlaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-scout", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [220, 120]
             }
         },
         {
