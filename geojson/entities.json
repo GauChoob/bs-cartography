@@ -17,6 +17,123 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Robyan",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-chef"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [164, 183]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [155, 160]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [143, 163]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109, 159]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [105, 161]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisherman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133, 163]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisherman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [126, 163]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisherwoman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [144, 181]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisherwoman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111, 162]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Cabbage",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -1415,32 +1532,6 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [145, 120]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Deathcrow",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-guard", "theme-neutral"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [147, 124]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Deathcrow",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-guard", "theme-neutral"]
-            },
-            "geometry": {
-                "type": "Point",
                 "coordinates": [152, 120]
             }
         },
@@ -1454,7 +1545,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [151, 126]
+                "coordinates": [144, 120]
             }
         },
         {
@@ -1467,7 +1558,33 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [154, 124]
+                "coordinates": [156, 120]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deathcrow",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-guard", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [144, 126]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deathcrow",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-guard", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [149, 127]
             }
         },
         {
@@ -1525,14 +1642,27 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Enchantress",
+                "name": "Infusionist",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-enchantress"]
+                "classes": ["icon-infusionist","theme-obstacle"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [152, 136]
+                "coordinates": [289, 249]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Infusionist's Infusing Table",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [289, 250]
             }
         },
         {
@@ -1545,7 +1675,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [168, 121]
+                "coordinates": [170, 121]
             }
         },
         {
@@ -1558,7 +1688,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [174, 122]
+                "coordinates": [169, 126]
             }
         },
         {
@@ -1571,7 +1701,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [170, 125]
+                "coordinates": [167, 121]
             }
         },
         {
@@ -1584,7 +1714,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [164, 125]
+                "coordinates": [173, 120]
             }
         },
         {
@@ -1597,7 +1727,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [171, 123]
+                "coordinates": [173, 126]
             }
         },
         {
@@ -1831,6 +1961,19 @@
             },
             "geometry": {
                 "type": "Point",
+                "coordinates": [146, 135]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thief",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-guard", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
                 "coordinates": [146, 130]
             }
         },
@@ -1844,7 +1987,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [147, 132]
+                "coordinates": [147, 133]
             }
         },
         {
@@ -1857,20 +2000,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [147, 136]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Thief",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-guard", "theme-aggressive"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [146, 135]
+                "coordinates": [147, 137]
             }
         },
         {
@@ -1922,7 +2052,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [159, 143]
+                "coordinates": [160, 143]
             }
         },
         {
@@ -1935,7 +2065,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [161, 147]
+                "coordinates": [160, 144]
             }
         },
         {
@@ -1948,7 +2078,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [147, 149]
+                "coordinates": [148, 150]
             }
         },
         {
@@ -1961,7 +2091,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [146, 152]
+                "coordinates": [146, 149]
             }
         },
         {
@@ -1974,7 +2104,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [146, 153]
+                "coordinates": [147, 152]
             }
         },
         {
@@ -1987,7 +2117,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [146, 150]
+                "coordinates": [146, 155]
             }
         },
         {
@@ -2507,7 +2637,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [132, 141]
+                "coordinates": [132, 143]
             }
         },
         {
@@ -2520,7 +2650,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [134, 143]
+                "coordinates": [132, 142]
             }
         },
         {
@@ -2533,7 +2663,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [138, 142]
+                "coordinates": [136, 143]
             }
         },
         {
@@ -2690,6 +2820,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [113, 185]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robyan",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk","theme-chef"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [164, 183]
             }
         },
         {
@@ -3729,7 +3872,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [15, 121]
+                "coordinates": [15, 120]
             }
         },
         {
@@ -3742,7 +3885,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12, 122]
+                "coordinates": [12, 123]
             }
         },
         {
@@ -3755,7 +3898,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12, 125]
+                "coordinates": [14, 120]
             }
         },
         {
@@ -3768,7 +3911,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [15, 124]
+                "coordinates": [15, 125]
             }
         },
         {
@@ -3781,7 +3924,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [20, 120]
+                "coordinates": [17, 124]
             }
         },
         {
@@ -3898,7 +4041,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [15, 126]
+                "coordinates": [14, 126]
             }
         },
         {
@@ -4470,7 +4613,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [31, 80]
+                "coordinates": [29, 83]
             }
         },
         {
@@ -4483,7 +4626,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28, 73]
+                "coordinates": [32, 83]
             }
         },
         {
@@ -4496,7 +4639,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [31, 68]
+                "coordinates": [32, 81]
             }
         },
         {
@@ -5225,7 +5368,20 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [67, 130]
+                "coordinates": [58, 132]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bugman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-guard", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60, 130]
             }
         },
         {
@@ -5251,20 +5407,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [61, 137]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bugman",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-guard", "theme-neutral"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [63, 141]
+                "coordinates": [60, 134]
             }
         },
         {
@@ -12696,7 +12839,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [289, 260]
+                "coordinates": [289, 264]
             }
           },
           {
@@ -17541,6 +17684,84 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [403, 243]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Squidbeast",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-minefighter", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [396, 214]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Squidbeast",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-minefighter", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [396, 220]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Squidbeast",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-minefighter", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [393, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mushroom Monster",
+                "category": "Entity",
+                "size": [2, 2],
+                "classes": ["icon-minefighter", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [346, 236]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mushroom Monster",
+                "category": "Entity",
+                "size": [2, 2],
+                "classes": ["icon-minefighter", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [346, 241]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mushroom Monster",
+                "category": "Entity",
+                "size": [2, 2],
+                "classes": ["icon-minefighter", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [348, 238]
             }
           },
           {
