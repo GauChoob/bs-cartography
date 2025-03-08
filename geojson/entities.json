@@ -82,6 +82,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112, 146]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Fisherman",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -1876,6 +1889,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Lance Corporal Frost",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-chef"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [178, 144]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [179, 144]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Goblin Soldier",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -2677,6 +2716,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [133, 138]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sneaky Brian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-chef"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [131, 130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thief (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132, 129]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thief (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133, 131]
             }
         },
         {
