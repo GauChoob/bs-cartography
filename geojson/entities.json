@@ -1658,7 +1658,7 @@
                 "name": "Infusionist",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-infusionist","theme-obstacle"]
+                "classes": ["icon-infusionist"]
             },
             "geometry": {
                 "type": "Point",
