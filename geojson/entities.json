@@ -43,6 +43,201 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101, 150]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [102, 149]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101, 148]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ship Hand",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101, 146]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ship Hand",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [108, 144]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ship Hand",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [108, 142]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Big Sean",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk","theme-chef"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [105, 142]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ship Hand",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [90, 160]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisherman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88, 163]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisherman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [89, 163]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Annie Twogloves",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk","theme-chef"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [88, 179]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [68, 155]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [74, 154]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scrap Rat",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle","shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [81, 144]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scrap Rat",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle","shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [83, 145]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Civilian",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -428,6 +623,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [118, 75]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lance Corporal Hodges",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk","theme-chef"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118, 71]
             }
         },
         {
@@ -1122,6 +1330,828 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [106, 87]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [103, 80]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [89, 91]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [85, 91]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [123, 74]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [124, 72]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Doctor",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [124, 82]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nurse",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [124, 84]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [125, 80]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [125, 84]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [115, 97]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118, 98]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [121, 99]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [118, 106]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [115, 108]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110, 105]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109, 104]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [108, 108]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [106, 108]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [105, 105]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101, 107]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [102, 108]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hayley Brannof",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [104, 108]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kitchen Hand",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [94, 111]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Waiter",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [99, 107]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Child",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [107, 109]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Waitress",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [105, 106]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ebsworth's Assistant",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132, 105]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lazy Recruit",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120, 75]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toblaine",
+                "link": "Toblaine (Hopeport)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [116, 70]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corporal Binns",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [108, 122]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [119, 118]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [119, 119]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114, 118]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114, 118]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [114, 123]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113, 123]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [100, 120]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Child",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113, 118]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Child",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [117, 122]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [87, 119]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [87, 122]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Child",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [117, 119]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [126, 115]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisherman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [124, 114]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisherman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [123, 118]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Child",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [123, 126]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Child",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [128, 126]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Child",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [128, 121]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Child",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137, 127]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138, 121]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132, 124]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [145, 120]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153, 125]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [156, 127]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hairdressers Assistant",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138, 116]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138, 125]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [177, 125]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [177, 121]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130, 121]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shady Civilian",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140, 126]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corporal Merissina",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [99, 131]
+            }
+        },
+        // Palika North Walls, South Walls un talak uz leju pa Tims Alley
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Cart",
                 "category": "Entity",
                 "size": [2, 1], 
@@ -1658,7 +2688,7 @@
                 "name": "Infusionist",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-infusionist"]
+                "classes": ["icon-infusionist","theme-obstacle"]
             },
             "geometry": {
                 "type": "Point",
@@ -1785,6 +2815,20 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Guard",
+                "link": "Guard (chef bounties)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-chef"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [179, 103]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Commander Hackett",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -1798,7 +2842,21 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sword Crate",
+                "name": "Guard",
+                "link": "Guard (NPC)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [179, 122]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Equipment Crate",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-obstacle"]
@@ -2994,6 +4052,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Bucket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [121, 144]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Rope",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -4145,6 +5216,32 @@
             },
             "geometry": {
                 "type": "Point",
+                "coordinates": [24, 139]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnivorous Plant",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22, 151]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carnivorous Plant",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
                 "coordinates": [26, 155]
             }
         },
@@ -4340,7 +5437,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27, 122]
+                "coordinates": [32, 124]
             }
         },
         {
@@ -4353,7 +5450,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [31, 121]
+                "coordinates": [30, 126]
             }
         },
         {
@@ -4366,7 +5463,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27, 127]
+                "coordinates": [32, 128]
             }
         },
         {
@@ -4379,7 +5476,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [38, 123]
+                "coordinates": [34, 126]
             }
         },
         {
@@ -5494,11 +6591,24 @@
                 "name": "Monument Pieces Bank",
                 "category": "Entity",
                 "size": [2, 1], 
-                "classes": ["icon-bank", "theme-stonemason"]
+                "classes": ["icon-bank", "theme-forager"]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [35, 143]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Entrance",
+                "category": "Entity",
+                "size": [3, 3], 
+                "classes": ["icon-obstacle", "theme-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29, 146]
             }
         },
         {
