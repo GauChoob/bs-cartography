@@ -1730,19 +1730,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Corporal Binns",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-talk"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [108, 122]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Civilian",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -1764,19 +1751,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [119, 119]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Civilian",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-talk"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [114, 118]
             }
         },
         {
@@ -3955,19 +3929,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [113, 185]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Robyan",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-talk","theme-chef"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [164, 183]
             }
         },
         {
