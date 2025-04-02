@@ -24474,6 +24474,454 @@
                 "type": "Point",  
                 "coordinates": [238, 265]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [271, 209]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [372, 221]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [403, 187]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [279, 296]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [327, 155]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [337, 189]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [371, 235]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [333, 265]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [354, 199]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [401, 171]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [315, 175]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [270, 283]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [301, 262]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [315, 264]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [330, 223]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [287, 251]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [280, 222]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [283, 163]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [285, 173]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [287, 182]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [346, 219]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [274, 265]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [334, 259]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [319, 282]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [289, 241]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [336, 202]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [341, 172]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [307, 288]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [398, 234]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [352, 231]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [383, 220]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Egg",
+                "link": "Egg (Easter)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-egg","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [379, 205]
+            }
           }
     ]
   }
