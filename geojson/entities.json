@@ -23660,7 +23660,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [80, 123]
+                "coordinates": [81, 123]
             }
           },
           {
@@ -24948,7 +24948,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [505, 142]
+                "coordinates": [505, 148]
             }
           },
           {
@@ -25370,6 +25370,58 @@
                 "type": "Point",  
                 "coordinates": [433, 108]
             }
-          }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eggnog",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [109, 118]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Egfred",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [221, 142]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eggtina",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [314, 220]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eggleton",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [496, 124]
+            }
+        }
     ]
-  }
+}
