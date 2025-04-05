@@ -20365,7 +20365,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [414, 143]
+                "coordinates": [416, 139]
             }
           },
           {
@@ -20378,7 +20378,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [413, 142]
+                "coordinates": [413, 144]
             }
           },
           {
@@ -20391,7 +20391,20 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [415, 138]
+                "coordinates": [416, 144]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Zombie",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [413, 140]
             }
           },
           {
@@ -20404,7 +20417,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [409, 142]
+                "coordinates": [407, 142]
             }
           },
           {
@@ -20417,7 +20430,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [401, 143]
+                "coordinates": [399, 143]
             }
           },
           {
@@ -20430,7 +20443,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [400, 143]
+                "coordinates": [398, 143]
             }
           },
           {
@@ -20443,7 +20456,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [414, 151]
+                "coordinates": [417, 151]
             }
           },
           {
@@ -20469,7 +20482,20 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [412, 148]
+                "coordinates": [414, 152]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Zombie",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [411, 149]
             }
           },
           {
@@ -24976,7 +25002,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [417, 151]
+                "coordinates": [417, 152]
             }
           },
           {
@@ -24990,7 +25016,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [409, 144]
+                "coordinates": [407, 144]
             }
           },
           {
