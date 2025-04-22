@@ -1661,10 +1661,22 @@
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
-                "coordinates": [[[123, 87], [123, 86], [121, 86], [121, 83], [120, 83], [120, 81], [121, 81], [121, 80], [127, 80], [127, 86], [125, 86], [125, 87], [123, 87]]]
+                "coordinates": [[[121, 86], [121, 83], [120, 83], [120, 81], [121, 81], [121, 80], [128, 80], [128, 82], [129, 82], [129, 84], [128, 84], [128, 86], [125, 86], [125, 87], [123, 87], [123, 86], [121, 86]]]
             },
             "properties": {
                 "name": "Infirmary",
+                "episode": "Hopeport",
+                "category": "Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[130, 80], [136, 80], [136, 86], [130, 86], [130, 80]]]
+            },
+            "properties": {
+                "name": "Critical Care Ward",
                 "episode": "Hopeport",
                 "category": "Room"
             }
@@ -3197,6 +3209,18 @@
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
+                "coordinates": [[[69, 119], [69, 123], [66, 123], [66, 126], [57, 126], [57, 117], [66, 117], [66, 119], [69, 119]]]
+            },
+            "properties": {
+                "name": "Brannof's Garden",
+                "episode": "Hopeport",
+                "category": "Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
                 "coordinates": [[[101, 126], [101, 124], [87, 124], [87, 118], [106, 118], [106, 124], [103, 124], [103, 126], [101, 126]]]
             },
             "properties": {
@@ -3837,6 +3861,18 @@
             },
             "properties": {
                 "name": "The Forager's Warehouse",
+                "episode": "Hopeport",
+                "category": "Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[155, 110], [157, 110], [157, 108], [160, 108], [160, 98], [153, 98], [153, 108], [155, 108], [155, 110]]]
+            },
+            "properties": {
+                "name": "The Forager's Stockroom",
                 "episode": "Hopeport",
                 "category": "Room"
             }
