@@ -1421,7 +1421,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [124, 82]
+                "coordinates": [125, 82]
             }
         },
         {
@@ -1434,7 +1434,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [124, 84]
+                "coordinates": [123, 82]
             }
         },
         {
@@ -1447,7 +1447,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [125, 80]
+                "coordinates": [127, 80]
             }
         },
         {
@@ -1461,7 +1461,85 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [125, 84]
+                "coordinates": [123, 80]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wardrobe",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130, 80]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wardrobe",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130, 85]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maeve",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132, 82]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Norman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132, 85]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Copper Sink",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135, 80]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Copper Sink",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135, 84]
             }
         },
         {
@@ -2336,11 +2414,37 @@
                 "name": "Cohen",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-talk"]
+                "classes": ["icon-talk", "theme-obstacle"]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [75, 119]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lunafern",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [59, 123]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pile of Rats",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [63, 120]
             }
         },
         {
@@ -2653,6 +2757,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [155, 115]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crate",
+                "link": "Crate (Herbalist's Hurdle)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [156, 105]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crate",
+                "link": "Crate (Herbalist's Hurdle)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [155, 101]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crate",
+                "link": "Crate (Herbalist's Hurdle)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [158, 101]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Siren's Scale",
+                "link": "Siren's Scale (scenery)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153, 107]
             }
         },
         {
