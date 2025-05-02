@@ -1506,6 +1506,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Cooper",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132, 80]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Norman",
                 "category": "Entity",
                 "size": [1, 1], 
