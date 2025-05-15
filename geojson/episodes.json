@@ -5,7 +5,7 @@
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
-                "coordinates": [[[0, 64], [182, 64], [182, 190], [0, 190], [0, 64]]]
+                "coordinates": [[[-28, 64], [182, 64], [182, 190], [-28, 190], [-28, 64]]]
             },
             "properties": {
                 "name": "Hopeport",
