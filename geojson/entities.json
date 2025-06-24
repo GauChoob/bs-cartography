@@ -22767,6 +22767,19 @@
           {
             "type": "Feature",
             "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [504, 116]
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
                 "name": "Rom Harrington",
                 "category": "Entity",
                 "size": [1, 1], 
