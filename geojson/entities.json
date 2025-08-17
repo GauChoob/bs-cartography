@@ -24024,6 +24024,318 @@
                 "type": "Point",  
                 "coordinates": [388, 86]
             }
-          }
+          },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gate",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [262, 279]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cave Pig",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [260, 283]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wobleg",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [295, 279]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blunkster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [293, 280]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinko",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [310, 264]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dabble",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [313, 264]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Well",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-obstacle","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [301, 262]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gap",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [341, 281]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gap",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [343, 281]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Winged Indentation",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [349, 281]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [354, 287]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [355, 290]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [359, 292]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [357, 288]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [355, 285]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [358, 286]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [360, 289]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [361, 285]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trough",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [368, 277]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fern",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [372, 297]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [378, 298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bridge Crank Handle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [380, 298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [267, 227]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lummock",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [402, 170]
+            }
+        }
     ]
 }
