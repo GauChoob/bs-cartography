@@ -25,7 +25,7 @@ const size_ratio = 2*config.tile_width/config.image_tile_dimensions // TODO - th
 
 // Automatically translate the map so that the Hopeport Portal Stone is set to the desired coordinate in the config
 // Also flip the y axis
-const CRS = L.Util.extend(L.CRS.Simple, {transformation: new L.Transformation(size_ratio, -border_left, size_ratio, -border_up)})
+const CRS = L.Util.extend(L.CRS.Simple, {transformation: new L.Transformation(size_ratio, -border_left * size_ratio, size_ratio, -border_up * size_ratio)})
 
 module.exports = {
     CRS,
