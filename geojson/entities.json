@@ -2216,14 +2216,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cart",
+                "name": "Storage Rift Marker",
                 "category": "Entity",
-                "size": [2, 1], 
-                "classes": ["icon-obstacle"]
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [110, 115]
+                "coordinates": [109, 115]
             }
         },
         {
@@ -3269,7 +3269,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [157, 144]
+                "coordinates": [171, 120]
             }
         },
         {
@@ -3387,6 +3387,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [151, 159]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [150, 159]
             }
         },
         {
@@ -4348,7 +4361,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [75, 162]
+                "coordinates": [36, 161]
             }
         },
         {
@@ -4361,7 +4374,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [65, 169]
+                "coordinates": [29, 159]
             }
         },
         {
@@ -4374,7 +4387,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [60, 166]
+                "coordinates": [26, 161]
             }
         },
         {
@@ -4387,7 +4400,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [74, 164]
+                "coordinates": [44, 164]
             }
         },
         {
@@ -4400,7 +4413,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [66, 164]
+                "coordinates": [55, 166]
             }
         },
         {
@@ -4413,7 +4426,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [67, 162]
+                "coordinates": [53, 171]
             }
         },
         {
@@ -4556,7 +4569,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [46, 165]
+                "coordinates": [49, 168]
             }
         },
         {
@@ -4569,7 +4582,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [51, 172]
+                "coordinates": [46, 161]
             }
         },
         {
@@ -4582,7 +4595,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [54, 165]
+                "coordinates": [55, 160]
             }
         },
         {
@@ -4764,20 +4777,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [39, 162]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Starfish",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [31, 159]
+                "coordinates": [26, 157]
             }
         },
         {
@@ -4796,14 +4796,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kelp",
+                "name": "Starfish",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [26, 159]
+                "coordinates": [39, 162]
             }
         },
         {
@@ -4816,7 +4816,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [33, 159]
+                "coordinates": [74, 164]
             }
         },
         {
@@ -4829,7 +4829,20 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [36, 160]
+                "coordinates": [67, 162]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kelp",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [66, 164]
             }
         },
         {
@@ -4920,7 +4933,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [11, 167]
+                "coordinates": [5, 62]
             }
         },
         {
@@ -4933,7 +4946,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [16, 167]
+                "coordinates": [4, 59]
             }
         },
         {
@@ -4946,7 +4959,20 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [19, 158]
+                "coordinates": [-1, 57]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wrack",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2, 65]
             }
         },
         {
@@ -5102,7 +5128,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [5, 129]
+                "coordinates": [4, 129]
             }
         },
         {
@@ -5245,7 +5271,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [18, 122]
+                "coordinates": [19, 122]
             }
         },
         {
@@ -5258,7 +5284,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [18, 118]
+                "coordinates": [1, 72]
             }
         },
         {
@@ -5271,7 +5297,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [11, 122]
+                "coordinates": [4, 71]
             }
         },
         {
@@ -5284,7 +5310,20 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [11, 133]
+                "coordinates": [3, 75]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wrack",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0, 77]
             }
         },
         {
@@ -5479,7 +5518,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [22, 145]
+                "coordinates": [32, 152]
             }
         },
         {
@@ -5505,7 +5544,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [35, 141]
+                "coordinates": [38, 153]
             }
         },
         {
@@ -5518,7 +5557,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [39, 142]
+                "coordinates": [38, 144]
             }
         },
         {
@@ -5531,7 +5570,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [36, 150]
+                "coordinates": [33, 142]
             }
         },
         {
@@ -6038,7 +6077,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [37, 95]
+                "coordinates": [37, 94]
             }
         },
         {
@@ -6155,7 +6194,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29, 83]
+                "coordinates": [32, 57]
             }
         },
         {
@@ -6168,7 +6207,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [32, 83]
+                "coordinates": [32, 59]
             }
         },
         {
@@ -6181,7 +6220,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [32, 81]
+                "coordinates": [29, 59]
             }
         },
         {
@@ -6195,7 +6234,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [30, 64]
+                "coordinates": [30, 40]
             }
         },
         {
@@ -6208,7 +6247,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [33, 76]
+                "coordinates": [33, 52]
             }
         },
         {
@@ -6217,11 +6256,11 @@
                 "name": "Sentry Drogentyna",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-talk"]
+                "classes": ["icon-talk", "theme-obstacle"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [29, 66]
+                "coordinates": [29, 42]
             }
         },
         {
@@ -6230,11 +6269,11 @@
                 "name": "Sentry Drogentyne",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-talk"]
+                "classes": ["icon-talk", "theme-obstacle"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [32, 66]
+                "coordinates": [32, 42]
             }
         },
         {
@@ -6416,7 +6455,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [45, 112]
+                "coordinates": [22, 43]
             }
         },
         {
@@ -6429,7 +6468,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [45, 114]
+                "coordinates": [13, 51]
             }
         },
         {
@@ -6442,7 +6481,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [48, 113]
+                "coordinates": [19, 52]
             }
         },
         {
@@ -6559,7 +6598,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [46, 120]
+                "coordinates": [40, 80]
             }
         },
         {
@@ -6572,7 +6611,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [45, 130]
+                "coordinates": [41, 75]
             }
         },
         {
@@ -6585,7 +6624,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [49, 132]
+                "coordinates": [44, 80]
             }
         },
         {
@@ -6598,7 +6637,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [49, 140]
+                "coordinates": [47, 75]
             }
         },
         {
@@ -6611,7 +6650,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [44, 145]
+                "coordinates": [46, 67]
             }
         },
         {
@@ -6624,7 +6663,33 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [52, 153]
+                "coordinates": [39, 65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bellplant",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [40, 57]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bellplant",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [46, 57]
             }
         },
         {
@@ -6689,7 +6754,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [53, 143]
+                "coordinates": [53, 141]
             }
         },
         {
@@ -6871,7 +6936,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [66, 142]
+                "coordinates": [16, 62]
             }
         },
         {
@@ -6884,7 +6949,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [60, 142]
+                "coordinates": [19, 64]
             }
         },
         {
@@ -6897,7 +6962,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [59, 131]
+                "coordinates": [22, 66]
             }
         },
         {
@@ -6984,85 +7049,7 @@
                 "name": "Globeplant",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [185, 122]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Globeplant",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [188, 122]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Globeplant",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [192, 122]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Globeplant",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [185, 126]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Globeplant",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [203, 129]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Globeplant",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [215, 130]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Globeplant",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -7075,11 +7062,37 @@
                 "name": "Globeplant",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [216, 125]
+                "coordinates": [208, 121]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Globeplant",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [203, 129]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Globeplant",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [207, 126]
             }
         },
         {
@@ -7248,7 +7261,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [210, 86]
+                "coordinates": [208, 84]
             }
         },
         {
@@ -7322,11 +7335,11 @@
                 "name": "Goat Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [193, 90]
+                "coordinates": [46, 120]
             }
         },
         {
@@ -7335,11 +7348,11 @@
                 "name": "Goat Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [196, 76]
+                "coordinates": [47, 124]
             }
         },
         {
@@ -7348,11 +7361,11 @@
                 "name": "Goat Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [184, 78]
+                "coordinates": [45, 127]
             }
         },
         {
@@ -7361,11 +7374,11 @@
                 "name": "Goat Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [184, 85]
+                "coordinates": [49, 132]
             }
         },
         {
@@ -7491,11 +7504,11 @@
                 "name": "Goat Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [182, 64]
+                "coordinates": [58, 135]
             }
         },
         {
@@ -7504,11 +7517,11 @@
                 "name": "Goat Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [188, 69]
+                "coordinates": [62, 141]
             }
         },
         {
@@ -7517,11 +7530,11 @@
                 "name": "Goat Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [196, 64]
+                "coordinates": [66, 140]
             }
         },
         {
@@ -7530,11 +7543,11 @@
                 "name": "Goat Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [195, 60]
+                "coordinates": [70, 142]
             }
         },
         {
@@ -7605,14 +7618,53 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Leek",
+                "name": "Dock Leaf",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [220, 79]
+                "coordinates": [191, 69]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dock Leaf",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [187, 67]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dock Leaf",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [186, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dock Leaf",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [194, 61]
             }
         },
         {
@@ -7621,11 +7673,11 @@
                 "name": "Leek",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [220, 76]
+                "coordinates": [261, 158]
             }
         },
         {
@@ -7634,11 +7686,11 @@
                 "name": "Leek",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [223, 77]
+                "coordinates": [265, 156]
             }
         },
         {
@@ -7647,11 +7699,37 @@
                 "name": "Leek",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [222, 73]
+                "coordinates": [267, 158]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Leek",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [267, 162]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [267, 72]
             }
         },
         {
@@ -7717,58 +7795,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [223, 68]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Leek",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [223, 71]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Leek",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [221, 66]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Leek",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [222, 60]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Leek",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [222, 63]
             }
         },
         {
@@ -7951,19 +7977,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [236, 79]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Rotting Log",
-                "category": "Entity",
-                "size": [1, 3], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [236, 71]
             }
         },
         {
@@ -8177,14 +8190,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Haleberries",
+                "name": "Water Pump",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-water_pump"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [259, 63]
+                "coordinates": [204, 85]
             }
         },
         {
@@ -8193,11 +8206,11 @@
                 "name": "Haleberries",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [265, 61]
+                "coordinates": [213, 86]
             }
         },
         {
@@ -8206,11 +8219,11 @@
                 "name": "Haleberries",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [262, 66]
+                "coordinates": [210, 86]
             }
         },
         {
@@ -8219,11 +8232,11 @@
                 "name": "Haleberries",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [269, 66]
+                "coordinates": [203, 89]
             }
         },
         {
@@ -8232,50 +8245,24 @@
                 "name": "Haleberries",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [267, 53]
+                "coordinates": [201, 85]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Haleberries",
+                "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-storage"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [260, 54]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Haleberries",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [260, 56]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Haleberries",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [266, 57]
+                "coordinates": [193, 90]
             }
         },
         {
@@ -8353,7 +8340,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [267, 77]
+                "coordinates": [125, 127]
             }
         },
         {
@@ -8366,7 +8353,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [268, 76]
+                "coordinates": [124, 127]
             }
         },
         {
@@ -8544,11 +8531,11 @@
                 "name": "Femur Shard",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [309, 59]
+                "coordinates": [13, 81]
             }
         },
         {
@@ -8557,11 +8544,11 @@
                 "name": "Femur Shard",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [314, 59]
+                "coordinates": [13, 76]
             }
         },
         {
@@ -8570,11 +8557,11 @@
                 "name": "Femur Shard",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [305, 62]
+                "coordinates": [17, 74]
             }
         },
         {
@@ -8583,11 +8570,11 @@
                 "name": "Femur Shard",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [308, 62]
+                "coordinates": [22, 77]
             }
         },
         {
@@ -8658,14 +8645,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Femur Shard",
+                "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-storage"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [312, 72]
+                "coordinates": [27, 73]
             }
         },
         {
@@ -8674,11 +8661,11 @@
                 "name": "Femur Shard",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [308, 75]
+                "coordinates": [32, 81]
             }
         },
         {
@@ -8687,11 +8674,11 @@
                 "name": "Femur Shard",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [301, 75]
+                "coordinates": [30, 70]
             }
         },
         {
@@ -8700,11 +8687,24 @@
                 "name": "Femur Shard",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [304, 73]
+                "coordinates": [33, 68]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Femur Shard",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32, 62]
             }
         },
         {
@@ -8765,11 +8765,11 @@
                 "name": "Bone Spike",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [300, 84]
+                "coordinates": [14, 141]
             }
         },
         {
@@ -8778,11 +8778,11 @@
                 "name": "Bone Spike",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [303, 85]
+                "coordinates": [17, 143]
             }
         },
         {
@@ -8791,11 +8791,11 @@
                 "name": "Bone Spike",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [306, 87]
+                "coordinates": [18, 149]
             }
         },
         {
@@ -8804,11 +8804,24 @@
                 "name": "Bone Spike",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [314, 87]
+                "coordinates": [15, 154]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19, 140]
             }
         },
         {
@@ -8856,11 +8869,11 @@
                 "name": "Bone Spike",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [321, 85]
+                "coordinates": [13, 160]
             }
         },
         {
@@ -8869,11 +8882,11 @@
                 "name": "Bone Spike",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [327, 82]
+                "coordinates": [19, 165]
             }
         },
         {
@@ -8882,11 +8895,11 @@
                 "name": "Bone Spike",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [324, 90]
+                "coordinates": [17, 166]
             }
         },
         {
@@ -8895,11 +8908,11 @@
                 "name": "Bone Spike",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [329, 89]
+                "coordinates": [11, 167]
             }
         },
         {
@@ -9116,11 +9129,11 @@
                 "name": "Soil Mound",
                 "category": "Entity",
                 "size": [2, 2], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [306, 107]
+                "coordinates": [53, 143]
             }
         },
         {
@@ -9334,110 +9347,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Orchid",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [242, 100]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Orchid",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [239, 99]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Orchid",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [240, 95]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Orchid",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [247, 95]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Orchid",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [238, 109]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Orchid",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [241, 110]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Orchid",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [244, 105]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Orchid",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [238, 104]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Hickory Tree",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -9519,11 +9428,11 @@
                 "name": "Tangfruit",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [233, 95]
+                "coordinates": [268, 185]
             }
         },
         {
@@ -9532,11 +9441,11 @@
                 "name": "Tangfruit",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [223, 95]
+                "coordinates": [269, 179]
             }
         },
         {
@@ -9545,11 +9454,11 @@
                 "name": "Tangfruit",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [229, 97]
+                "coordinates": [272, 179]
             }
         },
         {
@@ -9558,63 +9467,50 @@
                 "name": "Tangfruit",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [228, 94]
+                "coordinates": [277, 183]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Tangfruit",
+                "name": "Nethaniel Cyclops",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-shop", "theme-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [213, 105]
+                "coordinates": [294, 134]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Tangfruit",
+                "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-storage"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [218, 102]
+                "coordinates": [270, 174]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Tangfruit",
+                "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-storage"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [219, 111]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Tangfruit",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [226, 102]
+                "coordinates": [278, 131]
             }
         },
         {
@@ -9922,11 +9818,11 @@
                 "name": "Thicket",
                 "category": "Entity",
                 "size": [2, 2], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [248, 118]
+                "coordinates": [17, 70]
             }
         },
         {
@@ -9958,40 +9854,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Chestnut",
+                "name": "Thistle",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [257, 116]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Chestnut",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [262, 116]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Chestnut",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [266, 117]
+                "coordinates": [322, 82]
             }
         },
         {
@@ -10000,11 +9870,11 @@
                 "name": "Thistle",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [266, 113]
+                "coordinates": [327, 82]
             }
         },
         {
@@ -10013,11 +9883,11 @@
                 "name": "Thistle",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [272, 112]
+                "coordinates": [330, 89]
             }
         },
         {
@@ -10026,50 +9896,11 @@
                 "name": "Thistle",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [262, 109]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Thistle",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [261, 106]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Thistle",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [261, 98]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Thistle",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [271, 102]
+                "coordinates": [325, 92]
             }
         },
         {
@@ -10161,97 +9992,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [270, 117]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Chestnut",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [272, 122]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Chestnut",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [276, 116]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Chestnut",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [286, 119]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Snake Scale",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [283, 117]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Snake Scale",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [271, 120]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Snake Scale",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [275, 121]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Snake Scale",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [281, 119]
             }
         },
         {
@@ -10374,58 +10114,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Snake Scale",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [283, 97]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Snake Scale",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [280, 102]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Snake Scale",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [282, 106]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Snake Scale",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [281, 109]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Poplar Tree",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -10533,11 +10221,11 @@
                 "name": "Rams Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [286, 143]
+                "coordinates": [23, 63]
             }
         },
         {
@@ -10546,11 +10234,11 @@
                 "name": "Rams Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [288, 144]
+                "coordinates": [13, 57]
             }
         },
         {
@@ -10559,11 +10247,11 @@
                 "name": "Rams Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [289, 146]
+                "coordinates": [16, 57]
             }
         },
         {
@@ -10572,11 +10260,11 @@
                 "name": "Rams Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [286, 147]
+                "coordinates": [18, 59]
             }
         },
         {
@@ -10598,11 +10286,11 @@
                 "name": "Rams Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [296, 138]
+                "coordinates": [-3, 51]
             }
         },
         {
@@ -10611,11 +10299,11 @@
                 "name": "Rams Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [295, 136]
+                "coordinates": [2, 50]
             }
         },
         {
@@ -10624,11 +10312,11 @@
                 "name": "Rams Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [287, 138]
+                "coordinates": [7, 54]
             }
         },
         {
@@ -10637,11 +10325,11 @@
                 "name": "Rams Horn",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [290, 137]
+                "coordinates": [6, 52]
             }
         },
         {
@@ -10777,14 +10465,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bitterfruit",
+                "name": "Water Pump",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-water_pump"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [274, 158]
+                "coordinates": [303, 85]
             }
         },
         {
@@ -10793,11 +10481,11 @@
                 "name": "Bitterfruit",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [271, 167]
+                "coordinates": [308, 102]
             }
         },
         {
@@ -10806,11 +10494,11 @@
                 "name": "Bitterfruit",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [270, 174]
+                "coordinates": [304, 104]
             }
         },
         {
@@ -10819,11 +10507,24 @@
                 "name": "Bitterfruit",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [274, 171]
+                "coordinates": [304, 107]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bitterfruit",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [307, 108]
             }
         },
         {
@@ -10972,58 +10673,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bitterfruit",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [270, 159]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bitterfruit",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [259, 157]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bitterfruit",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [265, 156]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bitterfruit",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [267, 162]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Pine Tree",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -11136,110 +10785,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [249, 161]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clover",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [256, 158]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clover",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [246, 159]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clover",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [248, 160]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clover",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [250, 159]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clover",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [234, 157]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clover",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [239, 159]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clover",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [240, 162]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clover",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [234, 169]
             }
         },
         {
@@ -11617,7 +11162,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [262, 187]
+                "coordinates": [261, 183]
             }
         },
         {
@@ -11630,7 +11175,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [254, 185]
+                "coordinates": [256, 182]
             }
         },
         {
@@ -11643,7 +11188,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [254, 176]
+                "coordinates": [254, 178]
             }
         },
         {
@@ -11662,10 +11207,10 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pine Tree",
+                "name": "Chestnut",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-woodcutter"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -11682,7 +11227,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [254, 186]
+                "coordinates": [255, 185]
             }
         },
         {
@@ -11701,14 +11246,53 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pine Tree",
+                "name": "Water Pump",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-woodcutter"]
+                "classes": ["icon-water_pump"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [255, 180]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chestnut",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [259, 182]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chestnut",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [247, 183]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chestnut",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [251, 183]
             }
         },
         {
@@ -11734,7 +11318,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [247, 183]
+                "coordinates": [254, 182]
             }
         },
         {
@@ -11818,66 +11402,79 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Juniper Tree",
+                "name": "Willow Tree",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-woodcutter"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [243, 213]
+                "coordinates": [244, 213]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Juniper Tree",
+                "name": "Willow Tree",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-woodcutter"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [249, 226]
+                "coordinates": [249, 227]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Juniper Tree",
+                "name": "Willow Tree",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-woodcutter"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [253, 226]
+                "coordinates": [252, 226]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Juniper Tree",
+                "name": "Willow Tree",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-woodcutter"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [255, 221]
+                "coordinates": [256, 220]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Juniper Tree",
+                "name": "Willow Tree",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-woodcutter"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [244, 221]
+                "coordinates": [242, 217]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Willow Tree",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-woodcutter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [241, 222]
             }
         },
         {
@@ -12039,45 +11636,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Catkin",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [235, 176]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Catkin",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [241, 176]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Catkin",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [231, 181]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Crashed Cart",
                 "category": "Entity",
                 "size": [2, 2], 
@@ -12091,27 +11649,53 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ox",
+                "name": "Juniper Tree",
                 "category": "Entity",
-                "size": [2, 2], 
-                "classes": ["icon-obstacle"]
+                "size": [1, 1], 
+                "classes": ["icon-woodcutter"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [233, 180]
+                "coordinates": [231, 181]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Aboredon Nest",
+                "name": "Juniper Tree",
                 "category": "Entity",
-                "size": [2, 2], 
-                "classes": ["icon-gatherer"]
+                "size": [1, 1], 
+                "classes": ["icon-woodcutter"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [229, 176]
+                "coordinates": [235, 176]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Juniper Tree",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-woodcutter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [241, 176]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [234, 201]
             }
         },
         {
@@ -12328,7 +11912,7 @@
                 "name": "Ferryman",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-talk"]
+                "classes": ["icon-talk", "theme-obstacle"]
             },
             "geometry": {
                 "type": "Point",
@@ -12338,10 +11922,10 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sage",
+                "name": "Bamboo",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-woodcutter"]
             },
             "geometry": {
                 "type": "Point",
@@ -12351,59 +11935,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sage",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [234, 262]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sage",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [234, 261]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Juniper Tree",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-woodcutter"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [228, 259]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Juniper Tree",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-woodcutter"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [236, 259]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Juniper Tree",
+                "name": "Bamboo",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-woodcutter"]
@@ -12416,20 +11948,46 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Juniper Tree",
+                "name": "Bamboo",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-woodcutter"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [239, 265]
+                "coordinates": [236, 259]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Juniper Tree",
+                "name": "Bamboo",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-woodcutter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [227, 272]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bamboo",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-woodcutter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [237, 275]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bamboo",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-woodcutter"]
@@ -12442,66 +12000,40 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sage",
+                "name": "Bamboo",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-woodcutter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [231, 267]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bamboo",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-woodcutter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [239, 265]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [229, 267]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sage",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [230, 271]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sage",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [237, 269]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sage",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [236, 270]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sage",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [236, 272]
             }
         },
         {
@@ -12598,45 +12130,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Catkin",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [228, 191]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Catkin",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [211, 192]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Catkin",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [227, 196]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Timber Bank",
                 "category": "Entity",
                 "size": [2, 1], 
@@ -12671,6 +12164,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [212, 190]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Pump",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-water_pump"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [215, 185]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orchid",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [216, 188]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orchid",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [222, 188]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orchid",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [222, 194]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orchid",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [216, 194]
             }
         },
         {
@@ -12926,7 +12484,7 @@
                 "name": "Apple",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -12939,7 +12497,7 @@
                 "name": "Apple",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -12952,7 +12510,7 @@
                 "name": "Apple",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -13009,6 +12567,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [197, 167]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botanist Book",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-recipe", "theme-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [210, 161]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botanist Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [209, 163]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botanist Station",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [209, 165]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Willow Water Trough",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [209, 168]
             }
         },
         {
@@ -13290,7 +12900,7 @@
                 "name": "Apple",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -13303,7 +12913,7 @@
                 "name": "Apple",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -13316,7 +12926,7 @@
                 "name": "Apple",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -13495,58 +13105,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dandelion",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [208, 136]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dandelion",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [212, 136]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dandelion",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [212, 143]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dandelion",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [216, 143]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Wild Boar",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -13599,14 +13157,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dandelion",
+                "name": "Water Pump",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-water_pump"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [197, 136]
+                "coordinates": [210, 141]
             }
         },
         {
@@ -13615,7 +13173,20 @@
                 "name": "Dandelion",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [199, 136]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dandelion",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -13628,7 +13199,7 @@
                 "name": "Dandelion",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -13641,7 +13212,7 @@
                 "name": "Dandelion",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -13716,62 +13287,23 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dock Leaf",
+                "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-storage"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [245, 22]
+                "coordinates": [253, 26]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Dock Leaf",
+                "name": "Sage",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [255, 20]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dock Leaf",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [248, 19]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dock Leaf",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [252, 26]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Dock Leaf",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
@@ -13781,40 +13313,105 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dock Leaf",
+                "name": "Sage",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [255, 32]
+                "coordinates": [252, 35]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Dock Leaf",
+                "name": "Sage",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [248, 30]
+                "coordinates": [249, 29]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Dock Leaf",
+                "name": "Sage",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-gatherer"]
+                "classes": ["icon-botanist"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [252, 29]
+                "coordinates": [253, 29]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clover",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [239, 50]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clover",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [249, 50]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clover",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [253, 52]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clover",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [249, 54]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Water Pump",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-water_pump"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [246, 50]
             }
         },
         {
@@ -16540,6 +16137,19 @@
           {
             "type": "Feature",
             "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [333, 163]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
                 "name": "Fossil Assembly",
                 "category": "Entity",
                 "size": [2, 3], 
@@ -17086,14 +16696,92 @@
           {
             "type": "Feature",
             "properties": {
-                "name": "Old Trunk",
+                "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-search"]
+                "classes": ["icon-storage"]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [324, 198]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 208]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [404, 188]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [327, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [287, 241]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [354, 266]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [327, 134]
             }
           },
           {
@@ -19962,11 +19650,24 @@
                 "name": "Redeeki Val",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-merchant"]
+                "classes": ["icon-shop", "theme-merchant"]
             },
             "geometry": {
                 "type": "Point",  
                 "coordinates": [408, 105]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",  
+                "coordinates": [424, 63]
             }
           },
           {
@@ -20109,7 +19810,7 @@
             },
             "geometry": {
                 "type": "Point",  
-                "coordinates": [417, 81]
+                "coordinates": [404, 108]
             }
           },
           {
