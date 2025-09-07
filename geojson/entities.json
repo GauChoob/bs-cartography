@@ -12481,45 +12481,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Apple",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-botanist"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [197, 183]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Apple",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-botanist"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [200, 182]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Apple",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-botanist"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [203, 176]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Ash Tree",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -13100,6 +13061,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [229, 147]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [244, 105]
             }
         },
         {
