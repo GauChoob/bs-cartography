@@ -1,5 +1,6 @@
 import json
-
+import glob
+import os
 
 def parse_feature(feature):
     properties = feature['properties']
@@ -15,14 +16,15 @@ def parse_feature(feature):
         return icon + f'{name}: [[{link}]]'
     return icon + f'[[{name}]]'
 
+features = []
+for path in glob.glob(os.path.join('geojson','entities','*.json')):
+    with open(path, 'r') as f:
+        data = json.load(f)
+        if data.get('type') == 'FeatureCollection':
+            features.extend(data.get('features',[]))
+            
+links = {parse_feature(f) for f in features}
+links_list = sorted(links)
 
-with open('geojson/entities.json', 'r') as f:
-    json_data = json.load(f)
-features = json_data['features']
-links = set()
-for feature in features:
-    links.add(parse_feature(feature))
-links_list = list(links)
-links_list.sort()
 with open('dist/entity_links.txt', 'w') as f:
     f.write('\n\n'.join(links_list))

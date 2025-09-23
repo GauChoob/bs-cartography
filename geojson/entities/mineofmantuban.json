@@ -1,0 +1,5897 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Infusionist",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-infusionist","theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [289, 249]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Infusionist's Infusing Table",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [289, 250]
+            }
+        },
+				{
+            "type": "Feature",
+            "properties": {
+                "name": "Stone Sculpting Cart",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [304, 287]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stone Sculpting Cart",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [306, 287]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stone Sculpting Cart",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [308, 287]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stone Sculpting Cart",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [310, 287]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Moccasins",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 285]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stoneware Bench",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 284]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stoneware Bench",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 281]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "T.E.A. Machine Button",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [309, 279]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "T.E.A. Machine",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [307, 278]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "T.E.A. Machine Gas Tank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [306, 279]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "One Handed Ranged Workbench",
+                "link": "One Handed Ranged Workbench (stonemason)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [298, 285]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "One Handed Ranged Workbench",
+                "link": "One Handed Ranged Workbench (stonemason)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [298, 287]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonemason Design Book",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-recipe", "theme-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [296, 288]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shield Work Rock",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [294, 288]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shield Work Rock",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [292, 288]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Two Handed Melee Workbench",
+                "link": "Two Handed Melee Workbench (stonemason)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [288, 286]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Two Handed Melee Workbench",
+                "link": "Two Handed Melee Workbench (stonemason)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [288, 280]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "One Handed Melee Workbench",
+                "link": "One Handed Melee Workbench (stonemason)",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [291, 285]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "One Handed Melee Workbench",
+                "link": "One Handed Melee Workbench (stonemason)",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [291, 282]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Two Handed Ranged Workbench",
+                "link": "Two Handed Ranged Workbench (stonemason)",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [294, 285]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Two Handed Ranged Workbench",
+                "link": "Two Handed Ranged Workbench (stonemason)",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [294, 282]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stone Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [298, 280]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Timber Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-carpenter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [298, 279]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Scobu the Vague",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [277, 298]
+            }
+          },
+		  {
+            "type": "Feature",
+            "properties": {
+                "name": "Divination",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [276, 297]
+            }
+          },
+		  {
+            "type": "Feature",
+            "properties": {
+                "name": "Divination",
+                "category": "Entity",
+                "size": [3, 3], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [275, 294]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mogorob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-stonemason"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [270, 284]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Poffit",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [281, 286]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Spood",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [278, 280]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bobble",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [272, 278]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [275, 283]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mine Southwest Portal Stone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-portal_stone"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [277, 262]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [289, 264]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gamajig",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [304, 263]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Pops",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [303, 262]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Dabble's Junk Box",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [303, 272]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [304, 272]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [306, 272]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Timber Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-carpenter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [313, 267]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ore and Ingots Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 267]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blacksmith Design Book",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-recipe", "theme-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 267]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Forge",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [316, 267]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Forge",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [320, 263]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bellows",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [317, 260]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Smelter",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [316, 260]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingot Mold (goblin)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [315, 260]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bellows",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 260]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Smelter",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 260]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingot Mold (goblin)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [310, 260]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [305, 254]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [302, 250]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [301, 247]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [305, 245]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinerium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [309, 253]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinerium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [310, 253]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinerium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 253]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinerium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 253]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinerium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [313, 253]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinerium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 249]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinerium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 249]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinerium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [313, 248]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinerium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [314, 248]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [325, 250]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [323, 247]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [330, 254]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [328, 251]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [324, 256]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Quinto",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [326, 260]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Reset Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [321, 282]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [325, 281]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [329, 281]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [333, 281]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [337, 281]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [325, 285]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [329, 285]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [333, 285]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [337, 285]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [325, 289]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [329, 289]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [333, 289]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [337, 289]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [325, 293]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [329, 293]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [333, 293]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Receptacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [337, 293]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [339, 249]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [339, 257]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [335, 256]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [342, 255]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fire Toad",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [338, 251]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Skeleton Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [335, 265]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Skeleton Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [336, 268]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Skeleton Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [331, 267]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Skeleton Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [332, 270]
+            }
+          },
+           {
+            "type": "Feature",
+            "properties": {
+                "name": "Skeleton Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [342, 265]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Skeleton Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [344, 264]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Skeleton Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [342, 270]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Skeleton Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [344, 269]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [305, 236]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [303, 232]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [299, 232]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [300, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [296, 227]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Soapstone",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 239]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Vent",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [316, 239]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Vent",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [314, 237]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Vent",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [310, 234]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Andesite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [291, 232]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Andesite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [287, 233]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Andesite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [289, 227]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Andesite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [277, 231]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Andesite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [276, 235]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Andesite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [279, 237]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [289, 238]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [290, 238]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [289, 239]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [285, 239]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [285, 240]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [288, 243]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [289, 243]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [290, 243]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [296, 236]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Purpladium",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [295, 236]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Electric Snail",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [295, 240]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Electric Snail",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [292, 240]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Electric Snail",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [294, 241]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Electric Snail",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [294, 238]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Giant Bat",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [284, 221]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Giant Bat",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [290, 221]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Giant Bat",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [290, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Leech",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-item", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [278, 223]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Leech",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-item", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [281, 221]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Leech",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-item", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [279, 225]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Leech",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-item", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [276, 212]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Leech",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-item", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [279, 214]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Leech",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-item", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [281, 216]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bonewright Design Book",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-recipe", "theme-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [270, 216]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bones Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [269, 216]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Timber Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-carpenter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [268, 216]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Knickknacks Workbench",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [268, 209]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Knickknacks Workbench",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [268, 213]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "B.R.E.W.S. Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [271, 213]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "B.R.E.W.S. Vat",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [271, 211]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Grinder",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [271, 208]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Grinder",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [265, 208]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "B.R.E.W.S. Vat",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [265, 213]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "B.R.E.W.S. Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [265, 212]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "One Handed Melee Workbench",
+                "link": "One Handed Melee Workbench (bonewright)",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [266, 223]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "One Handed Melee Workbench",
+                "link": "One Handed Melee Workbench (bonewright)",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [269, 223]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shield Vice",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [264, 220]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Shield Vice",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [271, 227]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "One Handed Range Workbench",
+                "link": "One Handed Range Workbench (bonewright)",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [263, 222]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "One Handed Range Workbench",
+                "link": "One Handed Range Workbench (bonewright)",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [263, 225]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Two Handed Range Workbench",
+                "link": "Two Handed Range Workbench (bonewright)",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [265, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Two Handed Melee Workbench",
+                "link": "Two Handed Melee Workbench (bonewright)",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [268, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Two Handed Melee Workbench",
+                "link": "Two Handed Melee Workbench (bonewright)",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [269, 219]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Two Handed Range Workbench",
+                "link": "Two Handed Range Workbench (bonewright)",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [272, 224]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [290, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [291, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Jangle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [285, 208]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Building Materials Bank",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-bank", "theme-builder"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [291, 207]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [280, 199]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [281, 199]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [282, 199]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [281, 191]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [282, 191]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [283, 191]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [284, 191]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [285, 191]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Jack Grunger",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [284, 194]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [292, 195]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flint",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [294, 185]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rock",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [294, 183]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Dusty Dogsworth",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [296, 183]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flint",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [298, 183]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flint",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [297, 180]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Petunia Honest",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [283, 180]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flint",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [307, 184]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flint",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [305, 180]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flint",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [308, 179]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Beastman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [308, 183]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Beastman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [305, 182]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Beastman",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [308, 181]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Giant Rat",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [303, 190]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Giant Rat",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [305, 188]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Giant Rat",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [305, 194]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [300, 165]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [307, 165]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 168]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 168]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [319, 168]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [317, 162]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Larry the Lump",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [314, 167]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mena Topple",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [327, 158]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stubbin",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [325, 163]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [333, 163]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fossil Assembly",
+                "category": "Entity",
+                "size": [2, 3], 
+                "classes": ["icon-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [325, 160]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Sammy Clod",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [296, 172]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Limestone",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [295, 169]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Molly Sly",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [287, 172]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flint Mine Cart Work",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [283, 172]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Iron Mine Cart Work",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [283, 168]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt Mine Cart Work",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [283, 166]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Limestone Mine Cart Work",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [286, 164]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Fossils Mine Cart Work",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [287, 164]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [302, 160]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [303, 155]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [299, 155]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [293, 154]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [296, 158]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [291, 154]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [289, 158]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [287, 157]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [285, 155]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Minecrawler",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [285, 159]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Podger Hughes",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [287, 152]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Box of Loot",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [320, 175]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [320, 177]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [318, 175]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [317, 175]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [315, 177]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [315, 184]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [320, 184]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [335, 192]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Chuncrates",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [336, 192]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [325, 190]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [330, 189]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [327, 188]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [323, 190]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [329, 188]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [326, 188]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [316, 197]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [316, 198]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [317, 197]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [321, 190]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [317, 186]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [318, 191]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Old Trunk",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [324, 195]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [324, 198]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 208]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [404, 188]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [327, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [287, 241]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [354, 266]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [327, 134]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rope",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-item", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [299, 202]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gold Panning Notice",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [303, 202]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gold Panning",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [303, 204]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Corrupted Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [303, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Corrupted Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [302, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Corrupted Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [301, 209]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Corrupted Miner",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [305, 208]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [313, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [308, 223]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [315, 223]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [310, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 227]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 227]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [313, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabranese Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [314, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cave Moss",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [337, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Kobold",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [321, 215]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Kobold",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [321, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Kobold",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [324, 218]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Alabaster",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [311, 202]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [329, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [330, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [337, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [338, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [339, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [340, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [350, 199]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [350, 200]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [350, 201]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Flantium Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [350, 202]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Obelisk",
+                "category": "Entity",
+                "size": [5, 1], 
+                "classes": ["icon-obelisk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [343, 218]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Granite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [350, 185]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Granite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [343, 177]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Granite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [348, 176]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Granite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 185]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Granite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [361, 177]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Granite",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [357, 176]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [343, 166]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rockling",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [345, 169]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rockling",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [345, 171]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rockling",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [341, 170]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Dread Shell",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [358, 180]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Dread Shell",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 178]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Dread Shell",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [358, 176]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Dread Shell",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [360, 178]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Crate",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 171]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Nail",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 170]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Throwing Knife",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [361, 170]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Skallek",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [358, 170]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Chest of Drawers",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [353, 196]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Chest of Drawers",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 199]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Thaddeus Torrelli",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [357, 192]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Dina Torrelli",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 191]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [368, 184]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [366, 175]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [372, 183]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [371, 177]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [371, 173]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [378, 176]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [382, 177]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [378, 183]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 174]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Metalith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [386, 184]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [393, 182]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [389, 182]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [394, 184]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Giant Crystal",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [401, 185]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Marble",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [404, 178]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [394, 178]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [391, 177]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [388, 166]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [394, 170]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [390, 173]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [391, 168]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Cockroach",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [387, 169]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [418, 171]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [419, 170]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [420, 169]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [420, 168]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [417, 162]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [416, 162]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [415, 162]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gnomic Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [415, 170]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gnomic Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [419, 165]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gnomic Silver",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [418, 164]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gretel Torrelli",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [404, 168]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Timber Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-carpenter"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [408, 171]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ore and Ingots Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [408, 170]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blacksmith Design Book",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-recipe", "theme-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [408, 169]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewelry Bench",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [403, 164]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewelry Bench",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [404, 164]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewelry Bench",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [404, 161]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Jewelry Bench",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [403, 161]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Inlet",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [399, 165]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Hand Crank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [399, 164]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gnome Smelter",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [399, 163]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingot Mold (gnome)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [399, 162]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Inlet",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [399, 161]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Hand Crank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [399, 160]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gnome Smelter",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [399, 159]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingot Mold (gnome)",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [399, 158]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Inlet",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [401, 157]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Inlet",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [408, 158]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gnome Forge",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [404, 157]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Gnome Forge",
+                "category": "Entity",
+                "size": [1, 2], 
+                "classes": ["icon-blacksmith"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [408, 161]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [373, 194]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [371, 192]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [371, 197]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [370, 190]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [370, 194]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [382, 194]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [382, 197]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 194]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [384, 194]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonewurm",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [382, 192]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 210]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 209]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 208]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 207]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 206]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 205]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [376, 206]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [376, 205]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 204]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 212]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 213]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [379, 214]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [388, 216]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mythstone",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [387, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [376, 219]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Adathril Ore",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [376, 218]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Brimstone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [371, 219]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Elaborate Keyhole",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [373, 224]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stack of Track",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [363, 222]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Chest of Drawers",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [367, 224]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Chest of Drawers",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [368, 215]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Tommaso Torrelli",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 221]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Therese Torrelli",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Explosives Bank",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [359, 221]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Turntable",
+                "category": "Entity",
+                "size": [5, 5], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [368, 237]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Stack of Track",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [366, 241]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Turntable Wheel",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [372, 241]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mine Deep Portal Stone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-portal_stone"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [359, 252]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Wraith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [358, 242]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Wraith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [362, 240]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Wraith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [358, 237]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Wraith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [359, 234]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Wraith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 230]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Wraith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [353, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Wraith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [356, 226]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Wraith",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [359, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [384, 242]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Turntable",
+                "category": "Entity",
+                "size": [5, 5], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [385, 237]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Turntable Wheel",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [389, 237]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [394, 228]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [390, 231]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [380, 230]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [385, 231]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [388, 229]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Battered Sign",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [396, 239]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [396, 241]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [402, 234]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [397, 236]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [405, 239]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Blob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [403, 243]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Squidbeast",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [396, 214]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Squidbeast",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [396, 220]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Squidbeast",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [393, 217]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mushroom Monster",
+                "category": "Entity",
+                "size": [2, 2],
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [346, 236]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mushroom Monster",
+                "category": "Entity",
+                "size": [2, 2],
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [346, 241]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Mushroom Monster",
+                "category": "Entity",
+                "size": [2, 2],
+                "classes": ["icon-combat", "theme-neutral"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [348, 238]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Skeleton of a Gnome",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [389, 257]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rock",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [386, 258]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Rock",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [386, 263]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Deathstone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [384, 258]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Deathstone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [384, 260]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Deathstone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [390, 261]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Deathstone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [384, 271]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Deathstone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [386, 267]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Deathstone",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [390, 269]
+            }
+          },
+					{
+            "type": "Feature",
+            "properties": {
+                "name": "Cave Pig",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [260, 283]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wobleg",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [295, 279]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blunkster",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [293, 280]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinko",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [310, 264]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dabble",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [313, 264]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goblin Well",
+                "category": "Entity",
+                "size": [2, 1], 
+                "classes": ["icon-obstacle","theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [301, 262]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gap",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [341, 281]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gap",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [343, 281]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Winged Indentation",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [349, 281]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [354, 287]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [355, 290]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [359, 292]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [357, 288]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [355, 285]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [358, 286]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [360, 289]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socket",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [361, 285]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trough",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [368, 277]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fern",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [372, 297]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lever",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [378, 298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bridge Crank Handle",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [380, 298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grob",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [267, 227]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lummock",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-shop", "theme-item"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [402, 170]
+            }
+        }
+		]
+}
