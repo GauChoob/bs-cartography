@@ -1945,28 +1945,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bones Bank",
-                "category": "Entity",
-                "size": [
-                    2,
-                    1
-                ],
-                "classes": [
-                    "icon-bank",
-                    "theme-bonewright"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150,
-                    127
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Dillie",
                 "category": "Entity",
                 "size": [
@@ -2877,27 +2855,6 @@
                 "coordinates": [
                     327,
                     105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Soil Mound",
-                "category": "Entity",
-                "size": [
-                    2,
-                    2
-                ],
-                "classes": [
-                    "icon-forager"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    78,
-                    143
                 ]
             }
         },

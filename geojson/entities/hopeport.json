@@ -2018,6 +2018,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Dillie",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [124, 127]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Mask Maker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [152, 134]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Child",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -2562,6 +2588,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [125, 113]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bones Bank",
+                "category": "Entity",
+                "size": [2, 1],
+                "classes": ["icon-bank", "theme-bonewright"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [125, 127]
             }
         },
         {
@@ -5896,6 +5935,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [15, 164]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soil Mound",
+                "category": "Entity",
+                "size": [2, 2],
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [53, 143]
             }
         },
         {
