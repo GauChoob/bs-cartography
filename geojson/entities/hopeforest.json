@@ -283,6 +283,110 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Shelbee's Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [221, 103]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maebee's Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [219, 102]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Libee's Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [217, 103]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beekeeper",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-talk", "theme-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [216, 104]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beehive Network Board",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle", "theme-botanist"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [216, 105]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phoebee's Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [217, 108]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rubee's Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [219, 109]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbee's Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [221, 108]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Yew Tree",
                 "category": "Entity",
                 "size": [
@@ -564,6 +668,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Maebee's Network Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [222, 80]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Yew Tree",
                 "category": "Entity",
                 "size": [
@@ -773,6 +890,448 @@
                     215,
                     61
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [195, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [195, 63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [195, 64]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [195, 65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [196, 60]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [196, 61]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [196, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [196, 63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [196, 64]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [196, 65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [196, 66]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [196, 67]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [197, 67]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [197, 66]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [197, 65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [197, 64]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [197, 63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [197, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [197, 61]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [197, 60]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [198, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [198, 63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [198, 64]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [198, 65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [199, 66]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [199, 65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [199, 64]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [199, 63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [199, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [199, 61]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [200, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [200, 63]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [200, 64]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puzzle Piece",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [200, 65]
             }
         },
         {
@@ -2520,6 +3079,19 @@
                     332,
                     85
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phoebee's Network Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [333, 88]
             }
         },
         {
@@ -4986,6 +5558,19 @@
                     295,
                     166
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shelbee's Network Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [296, 167]
             }
         },
         {
@@ -8211,6 +8796,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Libee's Network Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [222, 183]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Ash Tree",
                 "category": "Entity",
                 "size": [
@@ -9310,6 +9908,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Barbee's Network Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [237, 136]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Dandelion",
                 "category": "Entity",
                 "size": [
@@ -9473,6 +10084,19 @@
                     290,
                     43
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rubee's Network Beehive",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [277, 40]
             }
         },
         {
