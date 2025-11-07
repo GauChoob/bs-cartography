@@ -10089,6 +10089,45 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "River Tree",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [301, 51]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Small Chest",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [303, 35]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Armstead",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [300, 32]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Rubee's Network Beehive",
                 "category": "Entity",
                 "size": [1, 1],
