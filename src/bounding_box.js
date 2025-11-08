@@ -46,9 +46,17 @@ const focus_map = (map, type, targets, exact) => {
         map.fitBounds(bbox)
     }
     if(type === 'rooms') {
-        // Fixed zoom level for all rooms
-        const center = get_middle_of_bounding_box(bbox)
-        map.setView(center, config.room_zoom)
+        // In case if there are multiple rooms
+        if (targets.length > 1) {
+            bbox[0][0] -= config.highlighted_entity_margin
+            bbox[0][1] -= config.highlighted_entity_margin
+            bbox[1][0] += config.highlighted_entity_margin
+            bbox[1][1] += config.highlighted_entity_margin
+            map.fitBounds(bbox)
+        } else {
+            const center = get_middle_of_bounding_box(bbox)
+            map.setView(center, config.room_zoom)
+        }     
     }
     if(type === 'entities' || type === 'all') {
         bbox[0][0] -= config.highlighted_entity_margin

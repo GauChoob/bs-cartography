@@ -18,13 +18,13 @@ const highlight_episodes = (map, episodes, exact) => {
     highlighted_episode_layer.addTo(map)
 }
 
-const highlight_rooms = (map, rooms, exact) => {
+const highlight_rooms = (map, rooms, exact, color) => {
     if(highlighted_room_layer !== null) {
         highlighted_room_layer.remove()
     }
     highlighted_room_layer = new L.GeoJSON(window.geojson.rooms.features, {
         filter: filter.get_filter(rooms, exact),
-        style: config.room_style,
+        style: (feature) => config.room_style(feature, color),
         interactive: false,
     })
     highlighted_room_layer.addTo(map)
@@ -58,7 +58,8 @@ const highlights = {
     'rooms': highlight_rooms,
     'entities': highlight_entities,
 }
-const highlight = (map, type, targets, exact) => highlights[type](map, targets, exact)
+//const highlight = (map, type, targets, exact) => highlights[type](map, targets, exact)
+const highlight = (map, template, exact) => highlights[template.type](map, template.targets, exact, template.color)
 
 module.exports = {
     highlight

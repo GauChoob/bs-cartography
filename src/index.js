@@ -54,7 +54,7 @@ room_overlay.setup_room_overlay(map)
 coordinates.add_coordinates(map)
 coordinates.add_tile_hover(map)
 markers.setup_entities(map)
-highlight.highlight(map, template.type, template.targets, true)
+highlight.highlight(map, template, true)
 bounding_box.focus_map(map, template.type, template.targets, true)
 search_bar.add_search_bar(map)
 

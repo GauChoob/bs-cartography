@@ -44,12 +44,12 @@ const room_colors = {
     'Crenopolis': 'gray',
     'unknown': 'black',
 }
-const room_style = (feature) => ({
-    color: room_colors[feature.properties.episode || 'unknown'],
+const room_style = (feature, roomColor) => ({
+    color: roomColor ? roomColor.toString() : room_colors[feature.properties.episode || 'unknown'],
     weight: 3,
     opacity: 1,
     fill: true,
-    fillColor: room_colors[feature.properties.episode || 'unknown'],
+    fillColor: roomColor ? roomColor.toString() : room_colors[feature.properties.episode || 'unknown'],
     fillOpacity: 0.2,
 })
 const room_overlay_style = {
