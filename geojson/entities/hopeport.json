@@ -7303,7 +7303,20 @@
                 "coordinates": [17, 70]
             }
         },
-				{
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19, 140]
+            }
+        },
+		{
             "type": "Feature",
             "properties": {
                 "name": "Bone Spike",
