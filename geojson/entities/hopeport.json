@@ -4341,6 +4341,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Ore and Ingots Bank",
+                "category": "Entity",
+                "size": [1, 2],
+                "classes": ["icon-bank", "theme-miner"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [81, 146]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Hayley Brannof",
                 "category": "Entity",
                 "size": [1, 1], 
