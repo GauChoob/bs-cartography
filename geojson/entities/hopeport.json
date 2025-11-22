@@ -2031,19 +2031,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "The Mask Maker",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-talk", "theme-obstacle"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [152, 134]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Child",
                 "category": "Entity",
                 "size": [1, 1], 

@@ -1375,6 +1375,84 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Certificate",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [347, 242]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Certificate",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [347, 241]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thimble's Locker",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [351, 237]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thimble",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [351, 242]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wimble",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [349, 240]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dimble",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [350, 239]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Fire Toad",
                 "category": "Entity",
                 "size": [
@@ -4672,6 +4750,32 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Puzzle Reset Lever",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [338, 156]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Control Panel",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [336, 156]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Podger Hughes",
                 "category": "Entity",
                 "size": [
@@ -6701,6 +6805,19 @@
                     411,
                     184
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mine Northeast Portal Stone",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-portal_stone"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [404, 165]
             }
         },
         {
@@ -9702,6 +9819,162 @@
                     427,
                     170
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trunk",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [316, 292]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Professor Tepler",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-talk", "theme-obstacle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [317, 297]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [316, 302]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [312, 305]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [313, 307]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [317, 305]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [320, 305]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [319, 309]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [323, 306]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [324, 307]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floor Tentacle",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-combat", "theme-aggressive"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [323, 311]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [322, 318]
             }
         }
     ]
