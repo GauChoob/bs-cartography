@@ -4548,28 +4548,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sergeant Fowler",
-                "category": "Entity",
-                "size": [
-                    1,
-                    1
-                ],
-                "classes": [
-                    "icon-talk",
-                    "theme-detective"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    465,
-                    106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Filing Cabinet",
                 "category": "Entity",
                 "size": [
@@ -4635,21 +4613,77 @@
             "properties": {
                 "name": "Captain Waltain",
                 "category": "Entity",
-                "size": [
-                    1,
-                    1
-                ],
-                "classes": [
-                    "icon-talk",
-                    "theme-obstacle"
-                ]
+                "size": [1, 1],
+                "classes": ["icon-talk","theme-obstacle"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    458,
-                    108
-                ]
+                "coordinates": [460, 97]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sergeant Fowler",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-talk","theme-detective"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [459, 104]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Filing Cabinet",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [462, 110]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Filing Cabinet",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [462, 104]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Filing Cabinet",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [462, 105]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Detective",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-talk"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [459, 110]
             }
         },
         {

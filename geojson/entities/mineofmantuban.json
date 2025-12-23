@@ -6246,20 +6246,12 @@
             "properties": {
                 "name": "Storage Rift Marker",
                 "category": "Entity",
-                "size": [
-                    1,
-                    1
-                ],
-                "classes": [
-                    "icon-storage"
-                ]
+                "size": [1, 1],
+                "classes": ["icon-storage"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    368,
-                    166
-                ]
+                "coordinates": [372, 166]
             }
         },
         {
@@ -6267,21 +6259,12 @@
             "properties": {
                 "name": "Rockling",
                 "category": "Entity",
-                "size": [
-                    1,
-                    1
-                ],
-                "classes": [
-                    "icon-combat",
-                    "theme-neutral"
-                ]
+                "size": [1, 1],
+                "classes": ["icon-combat","theme-neutral"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    370,
-                    169
-                ]
+                "coordinates": [370, 169]
             }
         },
         {
@@ -6289,21 +6272,12 @@
             "properties": {
                 "name": "Rockling",
                 "category": "Entity",
-                "size": [
-                    1,
-                    1
-                ],
-                "classes": [
-                    "icon-combat",
-                    "theme-neutral"
-                ]
+                "size": [1, 1],
+                "classes": ["icon-combat","theme-neutral"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    370,
-                    171
-                ]
+                "coordinates": [371, 171]
             }
         },
         {
@@ -6311,21 +6285,12 @@
             "properties": {
                 "name": "Rockling",
                 "category": "Entity",
-                "size": [
-                    1,
-                    1
-                ],
-                "classes": [
-                    "icon-combat",
-                    "theme-neutral"
-                ]
+                "size": [1, 1],
+                "classes": ["icon-combat","theme-neutral"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    366,
-                    170
-                ]
+                "coordinates": [374, 170]
             }
         },
         {
