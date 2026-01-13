@@ -5199,6 +5199,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Express Bounty Board",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-clipboard","theme-merchant"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [531, 122]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Burglar",
                 "category": "Entity",
                 "size": [
@@ -5649,6 +5662,19 @@
                     545,
                     133
                 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ottoman",
+                "category": "Entity",
+                "size": [1, 1],
+                "classes": ["icon-search"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [573, 121]
             }
         },
         {
