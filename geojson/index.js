@@ -1,6 +1,8 @@
-const episodes = require('./episodes.json')
 const rooms = require('./rooms.json')
 const room_data = require('./room_data.json')
+const generateEpisodesFromRooms = require('./generateEpisodes');
+
+const episodes = generateEpisodesFromRooms(rooms);
 
 const hopeport = require('./entities/hopeport.json');
 const hopeforest = require('./entities/hopeforest.json');
