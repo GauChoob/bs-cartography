@@ -10,17 +10,38 @@ const update_bounds = (bbox, point) => {
     bbox[1][0] = Math.max(bbox[1][0], point[1]) // y max
 }
 
-const get_bounding_box = (features) => {
-    const bounds = [[Infinity, Infinity], [-Infinity, -Infinity]]
-    for(const feature of features) {
-        if(feature.geometry.type === 'Polygon') {
-            for(const point of feature.geometry.coordinates[0]) {
-                update_bounds(bounds, point)
+function update_bounds_from_geometry(bounds, geometry) {
+    if (geometry.type === 'Point') {
+        update_bounds(bounds, geometry.coordinates[0])
+        return;
+    }
+
+    if (geometry.type === 'Polygon') {
+        for (let i = 0; i < geometry.coordinates.length; i++) {
+            for (let j = 0; j < geometry.coordinates[i].length; j++) {
+                update_bounds(bounds, geometry.coordinates[i][j]);
             }
-        } else { // 'Point'
-            update_bounds(bounds, feature.geometry.coordinates)
         }
     }
+
+    if (geometry.type === 'MultiPolygon') {
+        for (let i = 0; i < geometry.coordinates.length; i++) {
+            for (let j = 0; j < geometry.coordinates[i].length; j++) {
+                for (let k = 0; k < geometry.coordinates[i][j].length; k++) {
+                    update_bounds(bounds, geometry.coordinates[i][j][k]);
+                }
+            }
+        }
+    }
+}
+
+const get_bounding_box = (features) => {
+    const bounds = [[Infinity, Infinity], [-Infinity, -Infinity]]
+
+    for (let i = 0; i < features.length; i++) {
+        update_bounds_from_geometry(bounds, features[i].geometry)
+    }
+
     return bounds
 }
 
