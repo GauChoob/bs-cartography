@@ -12,7 +12,7 @@ const update_bounds = (bbox, point) => {
 
 function update_bounds_from_geometry(bounds, geometry) {
     if (geometry.type === 'Point') {
-        update_bounds(bounds, geometry.coordinates[0])
+        update_bounds(bounds, geometry.coordinates)
         return;
     }
 
