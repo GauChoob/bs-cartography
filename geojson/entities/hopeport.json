@@ -836,10 +836,10 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Copper Sink",
+                "name": "Cooked Meals Bank",
                 "category": "Entity",
-                "size": [2, 1], 
-                "classes": ["icon-obstacle"]
+                "size": [1, 1], 
+                "classes": ["icon-bank", "theme-chef"]
             },
             "geometry": {
                 "type": "Point",
@@ -1259,7 +1259,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [126, 100]
+                "coordinates": [125, 101]
             }
         },
         {
@@ -1272,7 +1272,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [125, 100]
+                "coordinates": [125, 102]
             }
         },
         {
@@ -1307,11 +1307,11 @@
                 "name": "Man in a Waistcoat",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-talk"]
+                "classes": ["icon-talk", "theme-obstacle"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [109, 125]
+                "coordinates": [112, 115]
             }
         },
         {
@@ -1320,7 +1320,7 @@
                 "name": "Kristiana Carefree",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-talk"]
+                "classes": ["icon-talk", "theme-obstacle"]
             },
             "geometry": {
                 "type": "Point",
@@ -1539,7 +1539,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [135, 80]
+                "coordinates": [140, 80]
             }
         },
         {
@@ -1552,7 +1552,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [135, 84]
+                "coordinates": [140, 84]
             }
         },
         {
@@ -2554,7 +2554,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fishing Bait Bank",
+                "name": "Fishing Supplies Bank",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-bank", "theme-fisher"]
@@ -4331,7 +4331,7 @@
                 "name": "Ore and Ingots Bank",
                 "category": "Entity",
                 "size": [1, 2],
-                "classes": ["icon-bank", "theme-miner"]
+                "classes": ["icon-bank", "theme-blacksmith"]
             },
             "geometry": {
                 "type": "Point",
@@ -4614,7 +4614,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rock Pool",
+                "name": "Anemone Rock Pool",
                 "category": "Entity",
                 "size": [2, 2], 
                 "classes": ["icon-forager"]
@@ -4627,7 +4627,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rock Pool",
+                "name": "Sea Slug Nest",
                 "category": "Entity",
                 "size": [2, 2], 
                 "classes": ["icon-forager"]
@@ -4699,7 +4699,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [33, 168]
+                "coordinates": [33, 165]
             }
         },
         {
@@ -4738,7 +4738,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [34, 163]
+                "coordinates": [31, 163]
             }
         },
         {
@@ -4751,7 +4751,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [28, 167]
+                "coordinates": [31, 167]
             }
         },
         {
@@ -4764,7 +4764,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [27, 164]
+                "coordinates": [29, 165]
             }
         },
         {
@@ -4946,7 +4946,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [5, 62]
+                "coordinates": [-25, 133]
             }
         },
         {
@@ -4959,7 +4959,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [4, 59]
+                "coordinates": [-26, 131]
             }
         },
         {
@@ -4972,7 +4972,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [-1, 57]
+                "coordinates": [-25, 125]
             }
         },
         {
@@ -4985,7 +4985,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [2, 65]
+                "coordinates": [-22, 123]
             }
         },
         {
@@ -5290,14 +5290,92 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wrack",
+                "name": "Monument Jade",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-forager"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [1, 72]
+                "coordinates": [14, 139]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monument Jade",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16, 142]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monument Jade",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18, 149]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monument Jade",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16, 153]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monument Jade",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13, 160]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monument Jade",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19, 165]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monument Jade",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11, 167]
             }
         },
         {
@@ -5310,7 +5388,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [4, 71]
+                "coordinates": [-23, 152]
             }
         },
         {
@@ -5323,7 +5401,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [3, 75]
+                "coordinates": [-26, 151]
             }
         },
         {
@@ -5336,7 +5414,20 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [0, 77]
+                "coordinates": [-25, 144]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wrack",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-23, 142]
             }
         },
         {
@@ -5914,6 +6005,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Storage Rift Marker",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-storage"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-8, 130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Peclorin",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -5940,6 +6044,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Worm Mound",
+                "category": "Entity",
+                "size": [2, 2],
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23, 48]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Soil Mound",
                 "category": "Entity",
                 "size": [2, 2],
@@ -5947,7 +6064,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [53, 143]
+                "coordinates": [52, 140]
             }
         },
         {
@@ -6200,6 +6317,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Moth Ridden Log",
+                "category": "Entity",
+                "size": [1, 3], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [45, 120]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Rotting Log",
                 "category": "Entity",
                 "size": [1, 3], 
@@ -6208,6 +6338,110 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [38, 88]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Spike",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36, 91]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Spike",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [35, 86]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Spike",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30, 91]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Spike",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28, 86]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Spike",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32, 76]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Spike",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33, 68]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Spike",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29, 68]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bone Spike",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32, 62]
             }
         },
         {
@@ -6273,7 +6507,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [33, 52]
+                "coordinates": [32, 81]
             }
         },
         {
@@ -6474,6 +6708,45 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Trout",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18, 48]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trout",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16, 46]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trout",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19, 45]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Nettle",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -6617,6 +6890,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Over Grown Thicket",
+                "category": "Entity",
+                "size": [2, 2], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [40, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Bellplant",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -6689,7 +6975,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [39, 65]
+                "coordinates": [40, 65]
             }
         },
         {
@@ -6716,6 +7002,84 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [46, 57]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salmon",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [49, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salmon",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48, 64]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salmon",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50, 60]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salmon",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [50, 73]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salmon",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [52, 75]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salmon",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [51, 80]
             }
         },
         {
@@ -6780,7 +7144,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [53, 141]
+                "coordinates": [53, 144]
             }
         },
         {
@@ -7183,7 +7547,20 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [13, 81]
+                "coordinates": [21, 76]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Femur Shard",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15, 81]
             }
         },
         {
@@ -7209,20 +7586,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [17, 74]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Femur Shard",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [22, 77]
+                "coordinates": [16, 75]
             }
         },
 				{
@@ -7235,7 +7599,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [32, 81]
+                "coordinates": [8, 83]
             }
         },
         {
@@ -7248,7 +7612,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [30, 70]
+                "coordinates": [7, 81]
             }
         },
         {
@@ -7261,7 +7625,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [33, 68]
+                "coordinates": [3, 79]
             }
         },
         {
@@ -7274,10 +7638,192 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [32, 62]
+                "coordinates": [6, 71]
             }
         },
-				{
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shark Jaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0, 77]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shark Jaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3, 75]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shark Jaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [1, 72]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shark Jaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4, 71]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shark Jaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2, 65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shark Jaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5, 62]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shark Jaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4, 58]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shark Jaw",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-forager"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0, 57]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sardines",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3, 78]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sardines",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2, 74]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sardines",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1, 70]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sardines",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1, 65]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sardines",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-2, 61]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sardines",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-fisher", "shape-circle"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-4, 56]
+            }
+        },
+        {
             "type": "Feature",
             "properties": {
                 "name": "Storage Rift Marker",
@@ -7290,10 +7836,10 @@
                 "coordinates": [27, 73]
             }
         },
-				{
+        {
             "type": "Feature",
             "properties": {
-                "name": "Thicket",
+                "name": "Beetle Thicket",
                 "category": "Entity",
                 "size": [2, 2], 
                 "classes": ["icon-forager"]
@@ -7316,111 +7862,7 @@
                 "coordinates": [20, 140]
             }
         },
-		{
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Spike",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [14, 141]
-            }
-        },
         {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Spike",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [17, 143]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Spike",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [18, 149]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Spike",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [15, 154]
-            }
-        },
-				{
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Spike",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [13, 160]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Spike",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [19, 165]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Spike",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [17, 166]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Bone Spike",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-forager"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [11, 167]
-            }
-        },
-				{
             "type": "Feature",
             "properties": {
                 "name": "Goat Horn",
@@ -7430,7 +7872,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [46, 120]
+                "coordinates": [52, 134]
             }
         },
         {
