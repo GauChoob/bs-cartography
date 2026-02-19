@@ -4,7 +4,9 @@ const bounding_box = require('./bounding_box.js')
 
 const get_search_options = () => {
     const search_options = new Set()
+
     for(const key of ['episodes', 'rooms', 'entities']) {
+        if (!window.geojson[key] || !window.geojson[key].features) continue;
         for(const item of window.geojson[key].features) {
             search_options.add(item.properties.name)
         }
@@ -34,15 +36,15 @@ const Search = L.Control.extend({
         search_input.addEventListener('input', function(e) {
             if(this.value.length >= config.minimum_characters_in_automatic_search) {
                 const targets = this.value.split(';').map(target => target.trim())
-                highlight.highlight(map, 'all', targets, false)
+                highlight.highlightSearch(map, 'all', targets, false)
             } else {
-                highlight.highlight(map, 'all', ['^^NO TARGET - STRING WITH NO MATCHES^^'], true)
+                highlight.highlightSearch(map, 'all', ['^^NO TARGET - STRING WITH NO MATCHES^^'], true)
             }
         })
         search_input.addEventListener('keyup', function(e) {
             if(e.key === 'Enter') {
                 const targets = this.value.split(';').map(target => target.trim())
-                highlight.highlight(map, 'all', targets, false)
+                highlight.highlightSearch(map, 'all', targets, false)
                 bounding_box.focus_map(map, 'all', targets, false)
             }
         })

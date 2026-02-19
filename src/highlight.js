@@ -59,8 +59,25 @@ const highlights = {
     'entities': highlight_entities,
 }
 //const highlight = (map, type, targets, exact) => highlights[type](map, targets, exact)
-const highlight = (map, template, exact) => highlights[template.type](map, template.targets, exact, template.color)
-
+const highlight = (map, template, exact) => {
+    const fn = highlights[template.type]
+    if (!fn) {
+        console.warn('Unknown highlight type:', template.type);
+        return;
+    }
+    fn(map, template.targets, exact, template.color);
+    
+}
+const highlightSearch = (map, type, targets, exact) => {
+    const fn = highlights[type]
+    if (!fn) {
+        console.warn('Unknown higlight type:', type);
+        return;
+    }
+    
+    fn(map, targets, exact, null);
+}
 module.exports = {
-    highlight
+    highlight,
+    highlightSearch
 }

@@ -3934,7 +3934,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hickory Tree",
+                "name": "Oak Tree",
                 "category": "Entity",
                 "size": [
                     1,
@@ -3947,7 +3947,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    277,
+                    279,
                     95
                 ]
             }
@@ -3955,7 +3955,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hickory Tree",
+                "name": "Oak Tree",
                 "category": "Entity",
                 "size": [
                     1,
@@ -3968,7 +3968,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    277,
+                    279,
                     106
                 ]
             }
@@ -3976,7 +3976,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hickory Tree",
+                "name": "Oak Tree",
                 "category": "Entity",
                 "size": [
                     1,
@@ -3989,7 +3989,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    275,
+                    274,
                     103
                 ]
             }
