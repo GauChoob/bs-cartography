@@ -215,7 +215,7 @@
                 "name": "Scrap Rat",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle","shape-circle"]
+                "classes": ["icon-quest","shape-circle"]
             },
             "geometry": {
                 "type": "Point",
@@ -228,7 +228,7 @@
                 "name": "Scrap Rat",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle","shape-circle"]
+                "classes": ["icon-quest","shape-circle"]
             },
             "geometry": {
                 "type": "Point",
@@ -800,7 +800,7 @@
                 "name": "Fish Symbol",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -1467,27 +1467,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wardrobe",
+                "name": "Bedside Table",
                 "category": "Entity",
                 "size": [1, 1], 
                 "classes": ["icon-search"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [130, 80]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Wardrobe",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-search"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [130, 85]
+                "coordinates": [138, 85]
             }
         },
         {
@@ -1506,19 +1493,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cooper",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-talk", "theme-obstacle"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [132, 80]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Norman",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -1526,7 +1500,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [132, 85]
+                "coordinates": [139, 83]
             }
         },
         {
@@ -1534,25 +1508,12 @@
             "properties": {
                 "name": "Copper Sink",
                 "category": "Entity",
-                "size": [1, 2], 
-                "classes": ["icon-obstacle"]
+                "size": [2, 1], 
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [140, 80]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Copper Sink",
-                "category": "Entity",
-                "size": [1, 2], 
-                "classes": ["icon-obstacle"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [140, 84]
+                "coordinates": [139, 80]
             }
         },
         {
@@ -2453,7 +2414,7 @@
                 "name": "Lunafern",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2466,7 +2427,7 @@
                 "name": "Pile of Rats",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2492,7 +2453,7 @@
                 "name": "Ancient Post",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2505,7 +2466,7 @@
                 "name": "Ancient Post",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2518,7 +2479,7 @@
                 "name": "Ancient Post",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2531,7 +2492,7 @@
                 "name": "Ancient Post",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2805,7 +2766,7 @@
                 "link": "Crate (Herbalist's Hurdle)",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2819,7 +2780,7 @@
                 "link": "Crate (Herbalist's Hurdle)",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2833,7 +2794,7 @@
                 "link": "Crate (Herbalist's Hurdle)",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2847,7 +2808,7 @@
                 "link": "Siren's Scale (scenery)",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -2938,7 +2899,7 @@
                 "name": "Copper Sink",
                 "category": "Entity",
                 "size": [2, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -3005,7 +2966,7 @@
                 "name": "Equipment Crate",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -3691,6 +3652,19 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Fisher's Bounty Board",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-clipboard", "theme-fisher"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111, 143]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Bartrum Stone",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -3720,7 +3694,7 @@
                 "name": "Bush",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -3925,19 +3899,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Door",
-                "category": "Entity",
-                "size": [1, 1], 
-                "classes": ["icon-obstacle"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [133, 138]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Sneaky Brian",
                 "category": "Entity",
                 "size": [1, 1], 
@@ -3980,7 +3941,7 @@
                 "name": "Crate",
                 "category": "Entity",
                 "size": [2, 2], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -4305,7 +4266,7 @@
                 "name": "Swirl Symbol",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -4357,7 +4318,7 @@
                 "name": "Inverted Bath",
                 "category": "Entity",
                 "size": [1, 2], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -4895,6 +4856,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [10, 161]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisher's Bounty Board",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-clipboard", "theme-fisher"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18, 157]
             }
         },
         {
@@ -6086,7 +6060,7 @@
                 "name": "Freyeland Raccoon",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle", "shape-circle"]
+                "classes": ["icon-quest", "shape-circle"]
             },
             "geometry": {
                 "type": "Point",
@@ -6099,7 +6073,7 @@
                 "name": "Freyeland Raccoon",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle", "shape-circle"]
+                "classes": ["icon-quest", "shape-circle"]
             },
             "geometry": {
                 "type": "Point",
@@ -6112,7 +6086,7 @@
                 "name": "Freyeland Raccoon",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle", "shape-circle"]
+                "classes": ["icon-quest", "shape-circle"]
             },
             "geometry": {
                 "type": "Point",
@@ -6190,7 +6164,7 @@
                 "name": "Falcon Symbol",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -6338,6 +6312,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [38, 88]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisher's Bounty Board",
+                "category": "Entity",
+                "size": [1, 1], 
+                "classes": ["icon-clipboard", "theme-fisher"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33, 74]
             }
         },
         {
@@ -6503,7 +6490,7 @@
                 "name": "Shapes Symbol",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -6607,7 +6594,7 @@
                 "name": "Out of Place Rock",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -6633,7 +6620,7 @@
                 "name": "Large Pile of Treasure",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -6646,7 +6633,7 @@
                 "name": "Looted Inheritance Chest",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
@@ -6659,7 +6646,7 @@
                 "name": "Large Pile of Treasure",
                 "category": "Entity",
                 "size": [1, 1], 
-                "classes": ["icon-obstacle"]
+                "classes": ["icon-quest"]
             },
             "geometry": {
                 "type": "Point",
