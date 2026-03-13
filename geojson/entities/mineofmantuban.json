@@ -964,6 +964,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Blacksmith's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    348,
+                    267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Bellows",
                 "category": "Entity",
                 "size": [
@@ -6295,6 +6317,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Blacksmith's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    374,
+                    183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [
@@ -9861,6 +9905,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Blacksmith's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    436,
+                    175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Lummock",
                 "category": "Entity",
                 "size": [
@@ -10499,6 +10565,294 @@
                 "coordinates": [
                     395,
                     266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gindha",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-blacksmith",
+                    "shape-circle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    398,
+                    165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blacksmith's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    402,
+                    164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kanzak",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    397,
+                    162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Derrrik",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    400,
+                    159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zaje",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    400,
+                    156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meen",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    403,
+                    157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zaje",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    400,
+                    156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rrrenik",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    396,
+                    153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chol",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    393,
+                    158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bazorrr",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    391,
+                    157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Control Panel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    366,
+                    175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Emergency Stop",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    365,
+                    178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spongle",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "shape-circle",
+                    "theme-blacksmith"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    367,
+                    175
                 ]
             }
         }

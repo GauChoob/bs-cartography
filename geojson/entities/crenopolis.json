@@ -2173,15 +2173,14 @@
                     1
                 ],
                 "classes": [
-                    "icon-shop",
-                    "theme-merchant"
+                    "icon-merchant"
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    445,
-                    121
+                    429,
+                    133
                 ]
             }
         },
