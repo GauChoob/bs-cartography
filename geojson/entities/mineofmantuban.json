@@ -10855,6 +10855,182 @@
                     175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stonemason's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-stonemason"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    316,
+                    284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arturo",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-stonemason"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    396,
+                    177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clarice",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-stonemason"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    304,
+                    233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wentworth",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-stonemason"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    312,
+                    163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Horatio",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-stonemason"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    416,
+                    169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harrison",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-stonemason"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    371,
+                    216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quincy",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-stonemason"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    332,
+                    192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabriella",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-stonemason"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    371,
+                    257
+                ]
+            }
         }
     ]
 }
