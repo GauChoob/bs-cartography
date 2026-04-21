@@ -11031,6 +11031,160 @@
                     257
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bonewright's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    2
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-bonewright"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    304,
+                    219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hobble",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-bonewright"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    303,
+                    251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bumble",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-bonewright"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    304,
+                    252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spindle",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-bonewright"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    305,
+                    252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tinkle",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-bonewright"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    306,
+                    252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muddle",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-bonewright"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    307,
+                    251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bonetron-8000",
+                "category": "Entity",
+                "size": [
+                    3,
+                    3
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-bonewright"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    305,
+                    247
+                ]
+            }
         }
     ]
 }
