@@ -4495,8 +4495,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    311,
-                    172
+                    314,
+                    171
                 ]
             }
         },
@@ -4517,7 +4517,7 @@
                 "type": "Point",
                 "coordinates": [
                     311,
-                    168
+                    173
                 ]
             }
         },
@@ -4538,7 +4538,7 @@
                 "type": "Point",
                 "coordinates": [
                     311,
-                    166
+                    172
                 ]
             }
         },
@@ -4546,6 +4546,48 @@
             "type": "Feature",
             "properties": {
                 "name": "Limestone Mine Cart Work",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    311,
+                    168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fossils Mine Cart Work",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    311,
+                    166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nickel Mine Cart Work",
                 "category": "Entity",
                 "size": [
                     1,
@@ -4566,7 +4608,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fossils Mine Cart Work",
+                "name": "Horseshoes Mine Cart Work",
                 "category": "Entity",
                 "size": [
                     1,
@@ -4580,6 +4622,27 @@
                 "type": "Point",
                 "coordinates": [
                     315,
+                    164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gravel Mine Cart Work",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    317,
                     164
                 ]
             }
@@ -6999,7 +7062,7 @@
                     2
                 ],
                 "classes": [
-                    "icon-obstacle"
+                    "icon-quest"
                 ]
             },
             "geometry": {
@@ -8556,7 +8619,7 @@
                     5
                 ],
                 "classes": [
-                    "icon-obstacle"
+                    "icon-quest"
                 ]
             },
             "geometry": {
@@ -8577,7 +8640,7 @@
                     1
                 ],
                 "classes": [
-                    "icon-obstacle"
+                    "icon-quest"
                 ]
             },
             "geometry": {
@@ -8598,7 +8661,7 @@
                     1
                 ],
                 "classes": [
-                    "icon-obstacle"
+                    "icon-quest"
                 ]
             },
             "geometry": {
@@ -8837,7 +8900,7 @@
                     5
                 ],
                 "classes": [
-                    "icon-obstacle"
+                    "icon-quest"
                 ]
             },
             "geometry": {
@@ -8858,7 +8921,7 @@
                     1
                 ],
                 "classes": [
-                    "icon-obstacle"
+                    "icon-quest"
                 ]
             },
             "geometry": {
@@ -11183,6 +11246,221 @@
                 "coordinates": [
                     305,
                     247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Load of Old Rubbish",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    421,
+                    160
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Load of Old Rubbish",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    417,
+                    160
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Penelope",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    324,
+                    205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grrrayam",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    327,
+                    205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vulgad the Destroyer",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    328,
+                    205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eggs",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    438,
+                    207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Talking Squidbeast",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    439,
+                    206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Squimball Catapult",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-search",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    442,
+                    203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reality Checkpoint",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    436,
+                    198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pole",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    467,
+                    208
                 ]
             }
         }
