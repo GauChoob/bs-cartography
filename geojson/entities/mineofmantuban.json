@@ -11463,6 +11463,183 @@
                     208
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miner's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    401,
+                    243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miner's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    411,
+                    185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miner's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    356,
+                    216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miner's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    317,
+                    220
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miner's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    324,
+                    167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miner's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    325,
+                    261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Babble",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-miner",
+                    "shape-circle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    326,
+                    261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miner's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    370,
+                    253
+                ]
+            }
         }
     ]
 }
