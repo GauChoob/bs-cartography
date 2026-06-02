@@ -7846,6 +7846,364 @@
                     131
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wizard's Bed",
+                "category": "Entity",
+                "size": [
+                    2,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    507,
+                    147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Norick Oldgram",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    507,
+                    148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    509,
+                    149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    509,
+                    154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    514,
+                    154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    514,
+                    149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    510,
+                    150
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    513,
+                    153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    512,
+                    152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    511,
+                    151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    510,
+                    153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    511,
+                    152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    512,
+                    151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    513,
+                    150
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    514,
+                    152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    512,
+                    149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magical Orb",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-quest"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    509,
+                    151
+                ]
+            }
         }
     ]
 }
