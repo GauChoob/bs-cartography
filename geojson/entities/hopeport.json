@@ -5812,7 +5812,8 @@
                     1
                 ],
                 "classes": [
-                    "icon-talk"
+                    "icon-talk",
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -13362,6 +13363,204 @@
                 "coordinates": [
                     -2,
                     75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flint Ranged Weapons Stonemason Talisman",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher",
+                    "shape-square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140,
+                    178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt Melee Weapons Stonemason Talisman",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher",
+                    "shape-square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5,
+                    169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Granite Ranged Weapons Stonemason Talisman",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher",
+                    "shape-square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105,
+                    184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Andesite Melee Weapons Stonemason Talisman",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher",
+                    "shape-square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82,
+                    165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deathstone Shields Stonemason Talisman",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher",
+                    "shape-square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10,
+                    55
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flint Melee Weapons Stonemason Talisman",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher",
+                    "shape-square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7,
+                    95
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Basalt Ranged Weapons Stonemason Talisman",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher",
+                    "shape-square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154,
+                    184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Granite Melee Weapons Stonemason Talisman",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher",
+                    "shape-square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1,
+                    130
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Andesite Ranged Weapons Stonemason Talisman",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher",
+                    "shape-square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6,
+                    127
                 ]
             }
         }
