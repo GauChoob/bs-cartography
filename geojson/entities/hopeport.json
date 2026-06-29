@@ -2562,8 +2562,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    137,
-                    80
+                    68,
+                    158
                 ]
             }
         },
@@ -13561,6 +13561,204 @@
                 "coordinates": [
                     -6,
                     127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forager's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68,
+                    151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68,
+                    150
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forager's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13,
+                    60
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14,
+                    60
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forager's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19,
+                    151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20,
+                    143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forager's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45,
+                    130
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44,
+                    133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forager's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158,
+                    114
                 ]
             }
         }
