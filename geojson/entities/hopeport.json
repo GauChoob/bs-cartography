@@ -6272,6 +6272,90 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Eel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119,
+                    133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107,
+                    133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pufferfish",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127,
+                    139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pufferfish",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-fisher"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126,
+                    146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Pufferfish",
                 "category": "Entity",
                 "size": [
@@ -7991,8 +8075,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    18,
-                    168
+                    15,
+                    169
                 ]
             }
         },
@@ -13759,6 +13843,72 @@
                 "coordinates": [
                     158,
                     114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    158,
+                    107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148,
+                    120
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32,
+                    158
                 ]
             }
         }

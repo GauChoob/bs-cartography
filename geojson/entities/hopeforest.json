@@ -7048,7 +7048,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Chestnut",
+                "name": "Chestnuts",
                 "category": "Entity",
                 "size": [
                     1,
@@ -7132,7 +7132,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Chestnut",
+                "name": "Chestnuts",
                 "category": "Entity",
                 "size": [
                     1,
@@ -7153,7 +7153,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Chestnut",
+                "name": "Chestnuts",
                 "category": "Entity",
                 "size": [
                     1,
@@ -7174,7 +7174,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Chestnut",
+                "name": "Chestnuts",
                 "category": "Entity",
                 "size": [
                     1,
@@ -12853,6 +12853,94 @@
                 "coordinates": [
                     236,
                     95
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    219,
+                    199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    238,
+                    151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    250,
+                    259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-forager"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    299,
+                    31
                 ]
             }
         }

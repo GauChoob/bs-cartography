@@ -2928,7 +2928,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    312,
+                    312.5,
                     222
                 ]
             }
@@ -2950,7 +2950,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    318,
+                    317.5,
                     222
                 ]
             }
@@ -2972,7 +2972,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    318,
+                    317.5,
                     218
                 ]
             }
@@ -11638,6 +11638,226 @@
                 "coordinates": [
                     370,
                     253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sky Blue Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    350,
+                    183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Green Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    361,
+                    234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orange Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    357,
+                    251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burgundy Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    327,
+                    161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Indigo Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    372,
+                    171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clear Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    412,
+                    200
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sunrise Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    335,
+                    345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rose Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    312,
+                    223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Turquoise Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    393,
+                    283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Midnight Tourmaline",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-miner"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    378,
+                    234
                 ]
             }
         }
