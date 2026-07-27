@@ -12943,6 +12943,72 @@
                     31
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chameleon Plant Care Guide",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-recipe",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davis Seedfinger",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-shop",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botanist's Bounty Board",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-clipboard",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    247,
+                    160
+                ]
+            }
         }
     ]
 }
