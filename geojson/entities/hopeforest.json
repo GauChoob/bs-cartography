@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    213,
+                    122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Globeplant",
                 "category": "Entity",
                 "size": [
@@ -82,6 +103,28 @@
                 "coordinates": [
                     232,
                     126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    231,
+                    124
                 ]
             }
         },
@@ -858,6 +901,27 @@
                 "coordinates": [
                     197,
                     83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    196,
+                    89
                 ]
             }
         },
@@ -1767,6 +1831,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    221,
+                    70
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Leek",
                 "category": "Entity",
                 "size": [
@@ -1845,6 +1931,28 @@
                 "coordinates": [
                     292,
                     162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    288,
+                    163
                 ]
             }
         },
@@ -2724,6 +2832,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    227,
+                    83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [
@@ -3111,6 +3241,49 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    339,
+                    57
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    329,
+                    58
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Suave Tree",
                 "category": "Entity",
                 "size": [
@@ -3458,7 +3631,8 @@
                     1
                 ],
                 "classes": [
-                    "icon-talk"
+                    "icon-talk",
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -3466,6 +3640,28 @@
                 "coordinates": [
                     344,
                     89
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dryad",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    250,
+                    108
                 ]
             }
         },
@@ -4270,6 +4466,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    296,
+                    177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Nethaniel Cyclops",
                 "category": "Entity",
                 "size": [
@@ -4889,8 +5107,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    347,
-                    83
+                    346,
+                    84
                 ]
             }
         },
@@ -4954,6 +5172,28 @@
                 "coordinates": [
                     350,
                     93
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    350,
+                    96
                 ]
             }
         },
@@ -5792,6 +6032,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    333,
+                    110
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Pine Tree",
                 "category": "Entity",
                 "size": [
@@ -6481,6 +6743,27 @@
                 "coordinates": [
                     260,
                     169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    259,
+                    167
                 ]
             }
         },
@@ -7195,6 +7478,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    277,
+                    181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Pine Tree",
                 "category": "Entity",
                 "size": [
@@ -7550,6 +7855,49 @@
                 "coordinates": [
                     278,
                     219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    278,
+                    216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    280,
+                    217
                 ]
             }
         },
@@ -8401,6 +8749,49 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    263,
+                    269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    255,
+                    270
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Storage Rift Marker",
                 "category": "Entity",
                 "size": [
@@ -8583,8 +8974,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    245,
-                    181
+                    250,
+                    187
                 ]
             }
         },
@@ -8598,14 +8989,59 @@
                     1
                 ],
                 "classes": [
-                    "icon-talk"
+                    "icon-talk",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    250,
+                    186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cartographer Digby",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     245,
-                    180
+                    184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botan",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-talk",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    244,
+                    193
                 ]
             }
         },
@@ -8796,6 +9232,28 @@
                 "coordinates": [
                     241,
                     194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    242,
+                    187
                 ]
             }
         },
@@ -10149,7 +10607,50 @@
                 "type": "Point",
                 "coordinates": [
                     205,
-                    201
+                    199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apple",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    205,
+                    202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    204,
+                    195
                 ]
             }
         },
@@ -10664,6 +11165,70 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    223,
+                    136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    219,
+                    149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    217,
+                    159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Bedside Table",
                 "category": "Entity",
                 "size": [
@@ -10763,6 +11328,49 @@
                 "coordinates": [
                     301,
                     51
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    298,
+                    48
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    300,
+                    58
                 ]
             }
         },
@@ -10959,6 +11567,28 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    281,
+                    32
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Clover",
                 "category": "Entity",
                 "size": [
@@ -11037,6 +11667,28 @@
                 "coordinates": [
                     274,
                     54
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himatik Botanist Statue",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    270,
+                    48
                 ]
             }
         },
@@ -11240,6 +11892,27 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    265,
+                    27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Protruding Rock",
                 "category": "Entity",
                 "size": [
@@ -11276,6 +11949,27 @@
                 "coordinates": [
                     272,
                     22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    273,
+                    19
                 ]
             }
         },
@@ -11507,6 +12201,27 @@
                 "coordinates": [
                     260,
                     72
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chameleon Plant Patch",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-botanist"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    264,
+                    66
                 ]
             }
         },
@@ -12867,7 +13582,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -12889,7 +13604,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -12911,7 +13626,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -12933,7 +13648,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
