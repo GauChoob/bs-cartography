@@ -8216,7 +8216,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -8238,7 +8238,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -8260,7 +8260,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -8282,7 +8282,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -8304,7 +8304,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -8326,7 +8326,7 @@
                 ],
                 "classes": [
                     "icon-item",
-                    "theme-forager"
+                    "theme-obstacle"
                 ]
             },
             "geometry": {
@@ -8334,6 +8334,28 @@
                 "coordinates": [
                     404,
                     79
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shovel",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-item",
+                    "theme-obstacle"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17,
+                    85
                 ]
             }
         }

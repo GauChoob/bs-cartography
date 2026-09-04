@@ -1391,6 +1391,216 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Raw Sausages Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86,
+                    103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bread Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85,
+                    103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lemon Juice Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Butter Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soy Sauce Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wine Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    100
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cream Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    99
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stock Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    98
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pastry Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85,
+                    98
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raw Chicken Pantry Shelf",
+                "category": "Entity",
+                "size": [
+                    1,
+                    1
+                ],
+                "classes": [
+                    "icon-chef"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86,
+                    98
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Chopping Table",
                 "category": "Entity",
                 "size": [

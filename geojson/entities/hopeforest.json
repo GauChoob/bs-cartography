@@ -8963,7 +8963,7 @@
                 "name": "Timber Bank",
                 "category": "Entity",
                 "size": [
-                    2,
+                    1,
                     1
                 ],
                 "classes": [
@@ -8976,6 +8976,28 @@
                 "coordinates": [
                     250,
                     187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oxtavius",
+                "category": "Entity",
+                "size": [
+                    1,
+                    2
+                ],
+                "classes": [
+                    "icon-obstacle",
+                    "theme-carpenter"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    250,
+                    188
                 ]
             }
         },
